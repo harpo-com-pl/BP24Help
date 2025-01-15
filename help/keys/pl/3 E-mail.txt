@@ -1,0 +1,23 @@
+- Synchronizuj - Spacja + punkty 234 (Spacjs)
+- Pobierz więcej - Spacja + punkty 1348 (Spacja + Enter + m)
+- Odpowiedz nadawcy - Spacja + punkty 1235 (Spacja-r)
+- Przekaż dalej - Spacja + punkty 124 (Spacja + f)
+- Odpowiedz wszystkim - Spacja + punkty 12358 (Spacja + Enter + r)
+- Usuń wiadomość - Spacja + punkty 145 (Spacja + )
+- Usuń trwale - Spacja + punkty 1458 (Spacja + Enter + d)
+
+Nowa wiadomość e-mail:
+- Poprzednie pole - Spacja + punkty 23, klawisz kciukowy Poprzedni (skrajny lewy)
+- Następne pole - Spacja + punkty 56, klawisz kciukowy Następny (skrajny prawy)
+- Pole temat - Spacja + punkty 2348 (Spacja + Enter + s)
+- Pole Kopia do: - Spacja + punkty 148 (Spacja + Enter + c)
+- Pole Odbiorca: - Spacja + punkty 12358 (Spacja + Enter + r)
+- Pole Ukryta kopia do: - Spacja + punkty 1258 (Spacja + Enter + h)
+- Treść wiadomości - Spacja + punkty 158 (Spacja + Enter + e)
+- Lista kontaktów - Spacja + punkty 124 (Spacja + f)
+
+Czytanie wiadomości e-mail:
+- Otwórz wiadomość - punkt 8 (Enter), dowolny przycisk przywoływania kursora
+- Nawigowanie po tekście - klawisze kciukowe
+- Menu załączników - Spacja + punkty 18 (Spacja + Enter + a)
+- Wyjdź z wiadomości – spacja + punkty 14 (spacja + c) 

@@ -1,0 +1,22 @@
+Braille Display
+The braille display with 24 cells is located on the top surface, near the middle of the device. The display is covered with a thin plastic film installed on a frame. The frame can be replaced easily whenever the film loses its smoothness. 
+Behind each braille cell is a small button known as the cursor routing key. It points to a particular character, word, or sometimes a menu item. 
+A membrane in a plastic frame covers the Braille Display. The user can replace this frame whenever it wears off (which may happen after several months of intensive use). 
+The type of Braille dots used in the BraillePen24 allows for remarkably slim housing and good Braille quality. The dots cannot be touched while their contents change. While some users habitually keep their fingers down on the Braille display when the contents change, that may cause the device to produce text with errors. BraillePen24 has two unique mechanisms to compensate for this problem: 
+1. One is a set of sensors underneath the Braille display. The sensors recognize the presence of your fingers on the display, and whenever the finger is raised, the text refreshes in that sector. This behavior can be blocked in the Settings menu.
+2. On the Left side of the device, closer to the user, there is another sensor (marked with a round salience). Whenever you touch this sensor, the whole display will refresh. 
+The users who are aware of this cell behavior can effectively use BraillePen24.
+
+Braille Keyboard
+The keyboard’s eight keys are located above the braille display. The Leftmost key is called BackSpace, or sometimes dot 7; the Rightmost key is Enter, or dot 8. The Spacebar is located in the middle, just below the braille display. The Space key is divided into two halves—pressing either half causes the same effect. Pressing both space keys simultaneously along with other buttons may have different meanings in certain situations, as described in the following sections.
+The braille keyboard can be used to type braille or perform commands (in combination with other keys, such as Space).
+The commands depend on the screen reader used. Internal BraillePen24 applications
+can be controlled with keyboard shortcuts described in the Application Mode section of this documentation.
+To maintain a uniform mode of key-press description throughout this manual, we use the following method to explain the BraillePen24 key combination when writing about key shortcuts and Entering text:
+    - To show that the shortcut should consist of the Space key with braille dots 1, 2 and 8 we write: Space key + d128.
+    - To make the above explanation easier to remember we will use this kind of notation in parentheses: (Space-Enter-b) (because dots 1 and 2 make a 'b' letter, dot 8 is the Enter key).
+    - If the user is to press some of the 8 Perkins keys, space key, and modifiers at the same time, we will explain that as Spece key + dot123456 and will explain in parentheses what Braille character combination will that make: (Space-modifier-letter); for example - to explain an action of pressing spece key and Perkins keys 1, 2, 3 and 4 simultaneously we will say: Spece key + dot 1234 (Space-p).
+    - If a double-space is required (pressing both halves of the space key on the keyboard) we will say Two Space keys + ... . For example: Two Space keys + dot1234 (Spaces-p).
+    - More examples:
+        ◦ Space key + dot12348 (Space-Enter-p)
+        ◦ Space key + touch cursor key 24 + dot1 (Space-touch24-a)

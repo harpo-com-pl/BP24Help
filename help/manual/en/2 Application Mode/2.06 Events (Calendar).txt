@@ -1,0 +1,24 @@
+This application allows you to review your calendar, read details about events, edit them, and Enter new ones. Events may be downloaded and saved from and to a server. 
+After entering the Events menu item, you will see a list of events in all synchronized accounts. The list will be created or updated when the device is synchronized to servers using the BraillePenSync application. See the “Synchronization of the BraillePen24 Data” section below. When BraillePenSync is configured for connection with the server(s) and your BraillePen24, to sync your calendars press Space key + dot234 (Space-s). You will see a list of events that belong to the calendar. The system will download about 16 events first. To see more, use the "Download more" shortcut - Space key + dot1348 (Space-Enter-m).
+To find out which account the calendar belongs to, press Tab (Space key + dot 56, Next thumb key) while on the calendar name.
+You may use the regular navigation keys or joystick to navigate through the events. Additionally, please use:
+        ◦ The Previous event - Joystick Left, Left thumb key (Previous)
+        ◦ The Next event - Joystick right, Right thumb key (Next)
+        ◦ The first event - Space key + dot123 (Space key + l)
+        ◦ The last event - Space key + dot456
+        ◦ Synchronize events on the list - Space key + dot 234 (Space-s)
+        ◦ Delete event - Space key + dot145 (Space-d)
+        ◦ New event - Space key + dot1345 (Space-n)
+        ◦ Show more event details (Name, All day event (yes/no), Begin date + time, Finish date + time, Description, Save button, Exit button) - Space key + dot23 (Back-tab) and Space key + dot56 (Tab)
+        ◦ Task description - dot 8 (Enter)
+        ◦ Edit event - use the Context menu item "Edit"
+
+New event/edit event:
+        ◦ The Previous field - Space key + dot23 (Space-Tab), Left thumb key (Previous)
+        ◦ The Next field - Space key + dot 56 (Space-Tab), Right thumb key (Next)
+        ◦ The fields you will be able to edit: Name, All day event (yes/no), Begin date + time, Finish date + time, Description, Save button, Exit button
+        ◦ Changing a toggle on the form requires a Space
+        ◦ Choosing a button requires pressing Enter key
+        ◦ Save - Space+234 (Space-s)
+        ◦ Cancel and exit - Space key + dot14 (Space-c)
+        ◦ Save and exit - Space key + dot15 (Space-e)

@@ -1,0 +1,23 @@
+Kontakty wyświetlają jedną z nazw obecnych na wszystkich Twoich listach adresowych we wszystkich kontach zsynchronizowanych z BraillePen24. Po wejściu do menu Kontakty najpierw zobaczysz literkę „s:”, wskazującą, że należy wpisać nazwisko, które chcesz znaleźć. Po wpisaniu tekstu naciśnij Spacja + punkty 124 (Spacja-f). Zobaczysz pierwszy znaleziony element na wyświetlaczu.
+Aby wyświetlić więcej szczegółów kontaktu (Nazwa i inne dostępne dane) naciśnij Spacja + punkty 23 (Back-tab) oraz Spacja + punkty 56 (Tab).
+Aby wykonać następne wyszukiwanie, naciśnij Spacja + punkty 124 (Spacja-f) ponownie.
+
+Nawigacja po liście kontaktów:
+- Nowy kontakt - Spacja + punkty 1345 (Spacja-n)
+- Poprzednie Pole  Spacja + punkty 23, skrajny lewy klawisz kciukowy (W górę)
+- Następne Pole - Spacja + punkty 56, skrajny prawy klawisz kciukowy (W dół)
+- Wykonaj Połączenie telefoniczne - Spacja + punkty 14 (Spacja-Enter-c) – ta funkcja przekazuje powiadomienie z numerem telefonu na ekran połączonego smartfona; możesz je wykorzystać w celu wykonania połączenia pod ten numer
+
+Formularz nowego kontaktu:
+- Poprzednie Pole - Spacja + punkty 23, skrajny lewy klawisz kciukowy (W górę)
+- Następne Pole - Spacja + punkty 56, skrajny prawy klawisz kciukowy (W dół)
+- Imię - Spacja + punkty 13458 (spacja-Enter-n)
+- Nazwisko - Spacja + punkty 2348 (spacja-Enter-s)
+- Adres e-mail - Spacja + punkty 158 (spacja-Enter-e) to jest podwójne pole składające się z opisu i adresu e-mail
+- Numer telefonu - Spacja + punkty 12348 (spacja-Enter-p) to jest podwójne pole składające się z opisu i numeru telefonu
+- Zapisz - Spacja + punkty 234 (Spacja-s)
+- Dodaj numer telefonu: Spacja + punkty 12348 (Spacja-Enter-p)
+- Dodaj adres e-mail: Spacja + punkty 158 (Spacja-Enter-e)
+- Dodaj organizację: Spacja + punkty 1358 (Spacja-Enter-o)
+
+Wszystkie te funkcje umożliwiają łatwe zarządzanie kontaktami i ich szczegółami w BraillePen24.

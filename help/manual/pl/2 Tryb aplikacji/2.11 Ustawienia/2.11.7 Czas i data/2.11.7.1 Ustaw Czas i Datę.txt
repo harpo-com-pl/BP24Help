@@ -1,0 +1,3 @@
+Gdy Ustaw automatyczny czas (następna opcja - patrz poniżej) jest ustawiony na WŁĄCZONY, w bieżącym menu zobaczysz aktualny czas i nie będziesz mógł go zmienić.
+Gdy Ustaw automatyczny czas jest WYŁĄCZONY, możesz ustawić czas systemu BraillePen24, naciskając punkt 8 (Enter) i wpisując datę oraz czas w notacji ośmiopunktowej. Gdy skończysz z jedną wartością, przesuń joystickiem w prawo do następnej lub w lewo do poprzedniej. Punkty 78 pod edytowaną wartością na wyświetlaczu pokazują która wartość jest edytowana.
+Kolejność i format wprowadzanego czasu i daty są zgodne z formatem ustawionym w opcji Format godziny i Format daty. W przypadku formatu 12-godzinnego musisz zmienić stan przełącznika rano/po południu.

@@ -1,0 +1,9 @@
+Thumb Keys
+Your thumbs usually operate the four keys facing the user, so we call them “thumb keys” to differentiate them from the primary keyboard keys. These thumb keys are used with the braille display when reading and navigating and can be operated using your thumbs without moving your fingers from the braille display.
+The thumb keys are named Previous, Left, Right, and Next. 
+In general, the Left and Right keys are used to show the contents of the text being read when the text is longer than 24 characters (the Braille cell number on the device). When you press the Right thumb key, you will see the remainder of the text to the Right of the current fragment, and the opposite will happen when there is any text before the current fragment and you press Left.
+Previous and Next thumb keys work on lists, forms, and text as their names imply: on lists moving to the Next or precious item, on forms moving to the Next or Previous field, in a text moving to the following or preceding line or paragraph (in case a line concept does not exist). 
+
+Joystick
+The joystick is located in the middle on the front edge of the device. It has five functions: Left, Right, Up, Down, and Action. The action is performed by pressing the joystick cap into the unit.
+The actions performed by the joystick functions depend on context and will be described separately in later sections for all types of data being read or entered. 

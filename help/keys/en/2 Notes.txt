@@ -1,0 +1,5 @@
+- New note: Space + dots 1345 (Space + n)
+- Delete a note (while on the note list): Space + dots 145 (Space + d)
+- Exit the note without saving: Space + dots 14 (Space + c)
+- Exit the note and save it: Space + dots 15 (Space + e)
+- Editing a note: See the "Editing" section below

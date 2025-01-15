@@ -1,0 +1,27 @@
+Nawigowanie po liście zadań:
+- Poprzednia lista zadań - joystick w lewo, klawisz kciukowy Poprzedni (skrajny lewy)
+- Następna lista zadań - joystick w prawo, klawisz kciukowy Następny (skrajny prawy)
+- Synchronizuj listę zadań – spacja + punkty 234 (Spacja + s)
+- Usuń listę zadań – spacja + 145 (Spacja + d)
+– Nowa lista zadań – spacja + punkty 1345 (Spacja + n)
+– Wejście do listy aby zobaczyć zadania – Enter lub spacja + punkt 4 lub joystick w dół lub dowolny przycisk przywoływania kursora
+
+Nawigowanie po zadaniach wewnątrz dowolnej listy można wykonać w podobny sposób:
+– Poprzednie zadanie – joystick w lewo, klawisz kciukowy Poprzedni
+– Następne zadanie – joystick w prawo, klawisz kciukowy Następny
+– Synchronizuj zadania na liście – spacja+d234(Spacja+s)
+– Usuń zadanie – spacja +  punkty 145 (Spacja + d)
+– Nowe zadanie – spacja + punkty 1345 (Spacja + n)
+– Pokaż więcej szczegółów zadania – spacja + punkty 23 (Back-tab) i spacja + punkty 56 (Tab)
+– Opis zadania – punkt 8 (Enter)
+– Edytuj zadanie – użyj elementu menu kontekstowego „Edytuj”
+
+Nowe zadanie/edytowanie zadania:
+– Poprzednie pole – spacja + punkty 23 (Spacja-tab), klawisz kciukowy Poprzedni
+– Następne pole – spacja + punkty 56 (Spacja-tab), klawisz kciukowy Następny
+– Pola, które można edytować: Nazwa, Stan ukończenia, Termin, Opis, Przycisk Zapisz, Przycisk Wyjdź
+– Zmiana przełącznika w formularzu wymaga naciśnięcia spacji
+– Wybór przycisku wymaga naciśnięcia klawisza Enter
+– Zapisz – spacja + punkty 234 (Spacja + s)
+– Anuluj i wyjdź – spacja + punkty 14 (Spacja + c)
+– Zapisz i wyjdź – spacja + punkty 15 (Spacja + e)

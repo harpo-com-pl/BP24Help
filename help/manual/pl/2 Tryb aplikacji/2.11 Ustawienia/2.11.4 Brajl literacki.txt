@@ -1,0 +1,1 @@
+Pozwala użytkownikom wybrać jedną z dostępnych tablic Brailla literackiego sześciopunktowego z listy dostępnych. Znak 8-punktowy oznacza wybrany element.

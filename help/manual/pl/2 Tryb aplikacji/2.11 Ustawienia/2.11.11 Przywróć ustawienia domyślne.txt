@@ -1,0 +1,1 @@
+Gdy ta opcja zostanie uruchomiona, wszystkie ustawienia urządzenia zostaną zresetowane do domyślnych (czas automatycznego wyłączania, język, tablice brajlowskie itp.). Ta akcja nie powoduje usunięcia żadnych danych ani nie odłącza od aplikacji BraillePenSync lub czytnika ekranowego (screen readera).

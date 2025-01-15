@@ -1,0 +1,2 @@
+Allows users to select a literary or computer Braille table for reading and editing (when opening an e-mail, existing or new note, etc.) 
+This setting does not apply to menus or system messages that always use computer Braille.

@@ -1,0 +1,1 @@
+Allows users to set the time of inactivity before the unit turns off automatically, between 3 minutes, 5, 10, 15, 20, 30, 45, 60 minutes, and off.

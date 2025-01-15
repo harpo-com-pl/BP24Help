@@ -1,0 +1,1 @@
+Wyświetla numer seryjny urządzenia BraillePen24, którego używasz.

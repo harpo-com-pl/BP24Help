@@ -1,0 +1,14 @@
+- New line: Dot 8 (Enter) or joystick action
+- Backspace: Dots 7 (Backspace) or Space + dots 12 (Space + b)
+- Previous line (paragraph): Space + dots 1 (Space + a) or joystick up
+- Next line (paragraph): Space + dots 4, joystick down
+- Previous word: Space + dots 2
+- Next word: Space + dots 5
+- Previous character: Space + dots 3 or joystick left
+- Next character: Space + dots 6 or joystick right
+- Beginning of note: Space + dots 1-2-3
+- End of note: Space + dots 4-5-6
+- Save without exiting: Space + dots 234 (Space + s)
+- Save and exit: Space + dots 15 (Space + e)
+- Exit without saving: Space + dots 14 (Space + c)
+- Switch between computer/ literary Braille: Space + dots 1245 (Space + g)

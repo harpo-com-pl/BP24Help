@@ -1,0 +1,1 @@
+The stopwatch is a simple stop-and-go counter showing the elapsed time. Pressing Space starts and stops the time counting. To reset the time to 00:00:00, press the Space key + dot 14 (Space-c).

@@ -1,0 +1,28 @@
+Ta aplikacja umożliwia przeglądanie kalendarza, czytanie szczegółów wydarzeń, edytowanie ich oraz dodawanie nowych. Wydarzenia mogą być pobierane i zapisywane na serwerze.
+W celu przeglądania zawartości swojego kalendarza musisz najpierw połączyć się ze swoimi kontami za pomocą aplikacji BraillePenSync. Zobacz sekcję „Synchronizacja danych BraillePen24” poniżej. Kiedy BraillePenSync jest już skonfigurowany i połączony z Twoim kontem oraz urządzeniem BraillePen24, po pierwsze musisz zsynchronizować swoje kalendarze z serwerem, naciskając Spacja + punkty 234 (Spacja-s). Zobaczysz listę wydarzeń należących do wszystkich zdefiniowanych w BraillePenSync kont. 
+
+System pobierze 16 wydarzeń na początku. Aby zobaczyć więcej, użyj skrótu „Pobierz więcej” - Spacja + punkty 1348 (Spacja-Enter-m). Aby dowiedzieć się, do którego konta należy kalendarz, naciśnij Tab (Spacja + punkty 56, aby wrócić na nazwę kalendarza użyj tego samego polecenia.
+
+Aby nawigować przez wydarzenia, możesz używać standardowych klawiszy nawigacyjnych lub joysticka. Dodatkowo użyj:
+- Poprzednie wydarzenie - joystick w lewo, skrajny lewy klawisz kciukowy (Poprzedni)
+- Następne wydarzenie - joystick w prawo, skrajny prawy klawisz kciukowy (Następny)
+- Pierwsze wydarzenie - Spacja + punkty 123 (Spacja-l)
+- Ostatnie wydarzenie - Spacja + punkty 456
+- Synchronizuj wydarzenia na liście - Spacja + punkty 234 (Spacja-s)
+- Usuń wydarzenie - Spacja + punkty 145 (Spacja-d)
+- Nowe wydarzenie - Spacja + punkty 1345 (Spacja-n)
+- Pokaż więcej szczegółów wydarzenia (Nazwa, Wydarzenie całodniowe (tak/nie), Data + czas rozpoczęcia, Data + czas zakończenia, Opis, Przycisk Zapisz, Przycisk Wyjdź) - Spacja + punkty 23 (Back-tab) oraz Spacja + punkty 56 (Tab)
+- Opis wydarzenia - punkt 8 (Enter)
+- Edytuj wydarzenie - użyj elementu menu kontekstowego „Edytuj”
+
+Nowe wydarzenie/edytowanie wydarzenia:
+- Poprzednie pole - Spacja + punkt 23 (Spacja-Tab), skrajny lewy klawisz kciukowy (Poprzedni)
+- Następne pole - Spacja + punkt 56 (Spacja-Tab), skrajny prawy klawisz kciukowy (Następny)
+
+Pola, które można edytować: Nazwa, Wydarzenie całodniowe (tak/nie), Data + czas rozpoczęcia, Data + czas zakończenia, Opis, Przycisk Zapisz, Przycisk Wyjdź.
+Zmiana przełącznika w formularzu wymaga naciśnięcia Spacji.
+
+Wybór przycisku wymaga naciśnięcia klawisza Enter.
+- Zapisz - Spacja + punkty 234 (Spacja-s)
+- Anuluj i wyjdź - Spacja + punkty 14 (Spacja-c)
+- Zapisz i wyjdź - Spacja + punkty 15 (Spacja-e)

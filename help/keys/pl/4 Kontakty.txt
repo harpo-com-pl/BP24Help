@@ -1,0 +1,17 @@
+Nawigowanie po liście kontaktów:
+- Nowe wyszukiwanie - Spacja + punkty 124 (Spacja + f)
+- Połączenie telefoniczne - Spacja + punkty 12348 (Spacja + Enter + p)
+- Nowy kontakt - Spacja + punkty 1345 (Spacja + n)
+
+Formularz nowego kontaktu:
+- Poprzednie pole - Spacja + punkty 23, klawisz kciukowy Poprzedni (skrajny lewy)
+- Następne pole - Spacja + punkty 56, klawisz kciukowy Następny (skrajny prawy)
+- Imię - Spacja + punkty 13458 (Spacja + Enter + n)
+- Nazwisko - Spacja + punkty 2348 (Spacja + Enter + s)
+- Adres e-mail - Spacja + punkty 158 (Spacja + Enter + e)
+- Numer telefonu - Spacja + punkty 12348 (Spacja + Enter + p)
+- Zapisz - Spacja + punkty 234 (Spacja + s)
+
+Dodanie numeru telefonu: spacja + punkty 12348 (spacja + Enter + p)
+- Dodanie adresu e-mail: spacja-d158 (spacja + Enter + e)
+- Dodanie organizacji: spacja + punkty 1358 (spacja + Enter + o)

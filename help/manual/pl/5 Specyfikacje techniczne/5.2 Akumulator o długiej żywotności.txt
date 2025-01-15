@@ -1,0 +1,6 @@
+- Czas pracy wynosi 10 godzin lub więcej
+- Ładowany przez PC przez port USB-C
+- Automatyczne wyłączanie
+- Akumulator litowo-jonowy polimerowy
+- Kompatybilny z dowolnym standardowym adapterem USB-C A/C
+- Napięcie: 3.7V

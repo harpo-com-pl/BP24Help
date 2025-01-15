@@ -1,0 +1,16 @@
+BraillePen24 e-mail, contacts, calendar, tasks and notes can be synchronized with your Google Mail account, etc. This makes it easy to access your e-mail and notes at any moment without all the hassle of accessing them through your smartphone application (for that, you would need to switch both devices on, wait until they connect, and finally reach the Mail or Notes app in your phone – in BraillePen24, you switch the device to Application mode, and you’re ready to view your existing notes or write new ones).
+For synchronization, you need to use the BraillePenSync app from the Apple AppStore or Google Play Store.
+Before the app can be used, it must be set up:
+1. Define your accounts in BraillePenSync app on your smartphone (for example, Google account) by giving an email address, server name, user name, password
+2. Connect to your BraillePen24 by choosing “Select device” and selecting your device's serial number from the displayed list. The BraillePen24 must be on when
+doing this. Choose one (the only one usually, unless your neighbor also uses a BraillePen24).
+Once the connections are defined, you no longer need to worry about the BraillePenSync
+application on your phone. It can keep running in the background. Whenever you turn your phone off and on again, it is good to check if the app is active by running it.
+The synchronization is activated from the BraillePen24.
+1. When in the menu, enter "E-Mail", "Calendar," or “Notes.” - Space-S will sync the accounts (it will create accounts on the device). You only need to perform this once. Typically, you would do that only if you have added a new account or changed your existing accounts in the BraillePenSync app. The synchronization may be stopped by pressing Space + C.
+2. From this time on, the synced accounts will exchange data (between the device
+and the server) every time you use the Space-s shortcut. If you only want one or a few accounts synchronized you may disable synchronization for all other accounts in the BraillePenSync app.
+Each time notes are synchronized, the BraillePen24’s system time is also synchronized with the phone time (unless this feature is turned off on the Settings menu).
+Please note that if you have a large number of messages or notes and/or if your notes are long, you may have to wait up to an hour for a full synchronization (this happens if the notes are synchronized for the first time). Please don’t interrupt the process too early.
+Also, please remember to set the sleep time long enough for the first synchronization.
+Whenever you want to delete a message or  note from your device, you can use the Space-d command when on the note’s title in the note list. This message or note will be deleted from your device and, after a subsequent synchronization, from the respective server.

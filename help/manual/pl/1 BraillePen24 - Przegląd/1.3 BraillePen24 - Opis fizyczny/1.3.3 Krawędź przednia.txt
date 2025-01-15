@@ -1,0 +1,9 @@
+Klawisze kciukowe
+Twoje kciuki zazwyczaj obsługują cztery klawisze skierowane ku użytkownikowi, dlatego nazywamy je „klawiszami kciukowymi”, aby odróżnić je od głównych klawiszy klawiatury. Klawisze kciukowe są używane z wyświetlaczem brajlowskim podczas czytania oraz nawigacji i mogą być obsługiwane za pomocą kciuków bez ruchu palców od wyświetlacza brajlowskiego.
+Klawisze kciukowe noszą nazwy Poprzedni, Lewy, Prawy i Następny.
+Ogólnie rzecz biorąc, klawisze Lewy i Prawy są używane do pokazywania treści tekstu czytanego, gdy tekst jest dłuższy niż 24 znaki (liczba komórek brajlowskich w urządzeniu). Gdy naciśniesz prawy klawisz kciukowy, zobaczysz resztę tekstu po prawej stronie bieżącego fragmentu; odwrotna sytuacja wystąpi, gdy przed bieżącym fragmentem znajduje się jakikolwiek tekst i naciśniesz lewy klawisz.
+Klawisze Poprzedni i Następny działają na listach, formularzach i tekście zgodnie ze swoimi nazwami: w przypadku list przechodzą do następnego lub poprzedniego elementu; w formularzach przechodzą do następnego lub poprzedniego pola; w tekście przechodzą do następnej lub poprzedniej linii lub akapitu (jeśli koncepcja linii nie istnieje).
+
+Joystick
+Joystick znajduje się pośrodku przedniej krawędzi urządzenia. Ma pięć funkcji: Lewo, Prawo, W górę, W dół oraz Akcja. Akcja wykonywana jest przez naciśnięcie główki joysticka do urządzenia.
+Akcje wykonywane przez funkcje joysticka zależą od kontekstu i będą opisane osobno w późniejszych sekcjach dla wszystkich typów danych odczytywanych lub wprowadzanych.

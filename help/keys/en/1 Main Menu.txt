@@ -1,0 +1,16 @@
+- Navigate to the previous (higher) level: Space + dots 1, joystick up
+- Navigate to the next level (lower, deeper): Space + dots 4, joystick down
+- Activate a menu item: Space + dot 8 (button to place the cursor over the menu item)
+- First menu item: Space + dots 123 (Space + l)
+- Last menu item: Space + dots 456
+- Previous menu item: Space + dots 2, joystick left
+- Next menu item: Space + dots 5, joystick right
+- Synchronize: Space + dots 234 (Space + s)
+- Next field: Space + dots 23
+- Previous field: Space + dots 56
+- Delete an item: Space + dots 145 (Space + d)
+- Edit an item: Dot 8
+- New item: Space + dots 1345 (Space + n)
+- Context menu: Space + dots 134 (Space + m)
+- Exit edit mode: Space + dots 15 (Space + e)
+- Save the edited form: Space + dots 234 (Space + s)

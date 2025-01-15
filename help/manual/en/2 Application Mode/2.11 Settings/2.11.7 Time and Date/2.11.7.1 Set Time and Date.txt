@@ -1,0 +1,3 @@
+When Set Time Auto (the next option -see below) is set to On, you will see the current time here and cannot change it.
+When Set Time Auto is Off, set the time by pressing dot8 (Enter) and entering the date and the time using a lowered notation (dot2 = 1, dot23 = 2, dot25 = 3, etc.). When done with one value, move with the joystick right to the next or left to the previous. Dot78, under the edited display value, shows the value currently being edited.
+The sequence and format of the time and date entered are consistent with the format set in Hour Format and Date Format. In the imperial format, you need to change the am/pm.

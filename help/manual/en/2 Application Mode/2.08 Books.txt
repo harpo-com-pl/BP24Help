@@ -1,0 +1,12 @@
+This function displays a list of files placed on the micro-SD card inserted into the rear-edge slot of your BraillePen24. The files can be read on the device if they are present on the SD card in .brf or .txt format. Refer to the “Files on the SD card of BraillePen24” section below.
+Books are files for reading-only. They can not be edited. Please bear that in mind and use the navigation shortcuts the same as for the notes editor, but remember that the editing shortcuts will not work. 
+When browsing the SD card contents for books you will see the files in books folder on the card. The information on the files consists of:
+    - level of the folder in the SD card catalog - values 0 (the file or folder is placed in books folder)
+    - f or d letter - designating files of directories (folders)
+    - b or t - designating the file type (b = .brf; t = .txt; empty for folders)
+    - A colon - to separate the above information from the name of the file or folder
+    - examples:
+        - 0D :Novels - a directory (folder) with name "Novels" placed in the "books" folder on the SD card,
+        - 1Fb:Grapes of Wrath.brf - a file with name "Grapes of Wrath" placed in a folder one level below books folder.
+
+Folders on level 3 cannot be browsed - thus, only four levels are helpful for book files level 0, 1, 2 and 3.

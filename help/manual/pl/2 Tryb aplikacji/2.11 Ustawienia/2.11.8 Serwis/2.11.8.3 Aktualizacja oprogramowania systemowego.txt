@@ -1,0 +1,1 @@
+Aktualizacja oprogramowania układowego może być przeprowadzona tylko przy użyciu nowej wersji oprogramowania układowego w dostępnym pliku. Proszę korzystać z aktualizacji oprogramowania układowego ostrożnie: każde przerwanie podczas aktualizacji może sprawić, że urządzenie stanie się bezużyteczne aż do wysłania go do serwisu.

@@ -1,0 +1,3 @@
+Pozwala użytkownikom ustawić dźwięki i wibracje na WŁĄCZONE lub WYŁĄCZONE. Gdy dźwięki są włączone, urządzenie dostarcza sygnały dźwiękowe dla swoich działań (takich jak włączanie i wyłączanie itp.) – podobnie z wibracją.
+Wybierz jedną z trzech opcji: Wibracja i dźwięk, Wibracja oraz Dźwięk.
+Wyłącznik dźwięków na tylnej stronie urządzenia działa w ten sposób, że przełącza urządzenie w tryb Wibracja. Jest to szybki sposób na uciszenie urządzenia np. w teatrze, czy na koncercie. Po włączeniu z powrotem – przywracany jest stan sprzed aktywacji trybu cichego tym przełącznikiem.

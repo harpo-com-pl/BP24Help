@@ -1,0 +1,1 @@
+Pozwala wybrać język z listy dostępnych. Znak 8-punktowy wskazuje wybrany język.

@@ -1,0 +1,2 @@
+Oprócz standardowego menu, możesz uzyskać dostęp do menu kontekstowego, zawierającego najbardziej przydatne funkcje w bieżącej sytuacji, wywołując skrót klawiszowy Spacja + punkt punkty 1, 3, 4 (Spacja-m). Ciekawą właściwością tego menu jest to, że zawiera informację o skrótach klawiszowych do każdej funkcji, co sprzyja nauczeniu się tych skrótów, co zawsze jest najszybszym sposobem pracy.
+Jeśli z jakiegoś powodu chcesz zrezygnować z podejmowania jakiejkolwiek akcji w menu kontekstowym, aby wyjść z menu, naciśnij Spacja + punkty 1, 5 (Spacja-e).

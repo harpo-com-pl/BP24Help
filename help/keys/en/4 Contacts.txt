@@ -1,0 +1,17 @@
+Navigating through the contacts list:
+- New search: Space + dots 124 (Space + f)
+- Phone call: Space + dots 12348 (Space + Enter + p)
+- New contact: Space + dots 1345 (Space + n)
+
+New contact form:
+- Previous field: Space + dots 23, thumb key Previous (far left)
+- Next field: Space + dots 56, thumb key Next (far right)
+- First name: Space + dots 13458 (Space + Enter + n)
+- Last name: Space + dots 2348 (Space + Enter + s)
+- Email address: Space + dots 158 (Space + Enter + e)
+- Phone number: Space + dots 12348 (Space + Enter + p)
+- Save: Space + dots 234 (Space + s)
+
+Adding phone number: Space + dots 12348 (Space + Enter + p)
+- Adding email address: Space + dots 158 (Space + Enter + e)
+- Adding organization: Space + dots 1358 (Space + Enter + o)

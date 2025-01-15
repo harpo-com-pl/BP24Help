@@ -1,0 +1,43 @@
+Menu E-mail pozwala na czytanie i pisanie (tworzenie nowej lub odpowiadanie na otrzymane) wiadomości e-mail. Wiadomości mogą być pobierane i wysyłane na serwer. 
+
+Po pierwszym wejściu do tej funkcji zobaczysz komunikat „brak”. Aby przeczytać swoje e-maile, musisz zalogować się na swoje konto na serwerze IMAP lub Gmail w aplikacji BraillePenSync na smartfonie połączonym z BraillePen24. Następnie, będąc w menu E-mail na BraillePen24, zsynchronizuj konta e-mail, naciskając Spacja + punkty 234 (Spacja-s). Lista kont zostanie utworzona lub zaktualizowana, gdy urządzenie zsynchronizuje się z serwerem. Po zakończeniu synchronizacji kont możesz wejść w jedno z nich (joystick w dół lub klawisz Enter - punkt 8) i nacisnąć Spacja-s, aby uzyskać lub zaktualizować listę folderów, a następnie ponownie w folderze (joystick w dół lub klawisz Enter, czyli punkt 8) na liście wiadomości (pod warunkiem, że aplikacja BraillePenSync jest połączona z BraillePen24 i skonfigurowana do łączenia się z serwerem). Więcej szczegółów znajduje się w sekcji „Synchronizacja danych BraillePen24” poniżej.
+
+Powyżej opisana seria operacji synchronizacji musi być wykonywana tylko wtedy, gdy nowe konto jest synchronizowane po raz pierwszy lub gdy chcesz zaktualizować listy kont lub folderów. Jeśli masz konto z już zsynchronizowanymi folderami, możesz przejść bezpośrednio do folderu, który chcesz, i zsynchronizować listę w poszukiwaniu nowych wiadomości. 
+
+Podsumowując: gdy konta są już zsynchronizowane, wejdź w jedno z kont (joystick w dół lub klawisz Enter - punkt 8), aby zobaczyć listę folderów. Wybierz folder za pomocą joysticka w dół lub klawisza Enter (punkt 8) i zsynchronizuj (Spacja-s), aby odświeżyć listę wiadomości e-mail. System pobierze 16 wiadomości. Aby zobaczyć więcej, użyj skrótu „Pobierz więcej”: Spacja + punkty 1348 (Spacja-Enter-m).
+Przeglądaj listę e-maili za pomocą zwykłych metod przewijania (joystick lub klawisze kciukowe) i wejdź w jedną z nich za pomocą klawisza Enter (punkt 8) lub joysticka w dół.
+Oto lista skrótów dostępnych na liście wiadomości:
+- Synchronizacja lub pobieranie e-maili - Spacja + punkty 234 (Spacja-s)
+- Pobierz więcej wiadomości - Spacja + punkty 1348 (Spacja-Enter-m)
+- Odpowiedz nadawcy - Spacja + punkty 1235 (Spacja-r)
+- Przekaż dalej - Spacja + punkty 124 (Spacja-f)
+- Odpowiedz wszystkim - Spacja + punkty 12358 (Spacja-Enter-r)
+- Usuń wiadomość - Spacja + punkty 125 (Spacja-d)
+- Usuń trwale - Spacja + punkty 1258 (Spacja-Enter-d)
+- Początek tekstu - Spacja + punkty 123 (Spacja-l)
+- Koniec tekstu - Spacja + punkty 456
+- Otwórz wiadomość - Punkt 8 (Enter)
+- Menu załączników - Spacja + punkty 18 (Spacja-Enter-a)
+
+BraillePen24 używa Brailla komputerowego do menu, co obejmuje również listy wiadomości i ich tytuły będą też wyświetlane w komputerowym brajlu. Zobaczysz „brak” na wyświetlaczu brajlowskim, jeśli lista nie zawiera żadnych wiadomości.
+
+Czytanie wiadomości odbywa się za pomocą standardowych klawiszy nawigacyjnych (patrz poniżej). Dodatkowo podczas czytania możesz uzyskać dostęp do menu załączników — Spacja + punkty 18 (Spacja-a). To menu jest dostępne tylko wtedy, gdy wiadomość ma co najmniej jeden załącznik.
+Menu załączników to lista nazw plików dołączonych do wiadomości. Aby otworzyć załącznik, naciśnij punkt 8 (Enter). Gdy załącznik jest wyświetlany, BraillePen24 spróbuje pokazać wszelkie teksty znajdujące się w załączniku. To jest przydatne do przeglądania zawartości dokumentów PDF lub HTML, ale też wielu innych (patrz Dodatek 3 - Lista obsługiwanych formatów plików, które zostaną przekonwertowane na tekst czytelny w brajlu, gdy znajdą się w załączniku wiadomości).
+Aby wyjść z załącznika - Spacja + punkty 15 (Spacja-e) lub Spacja + punkty 14 (Spacja-c).
+Aby stworzyć nową wiadomość, użyj polecenia Spacja + punkty 1345 (Spacja-n). po Formularzu wiadomości można nawigować i wypełniać go przy użyciu następujących skrótów:
+- Poprzednie pole - Spacja + punkty 23, klawisz kciukowy Poprzedni (skrajny lewy)
+- Następne pole - Spacja + punkty 56, klawisz kciukowy Następny (skrajny prawy)
+- Pole Temat - Spacja + punkty 2348 (Spacja-Enter-s)
+- Przejdź do pola Kopia do: - Spacja + punkty 148 (Spacja-Enter-c)
+- Przejdź do pola Odbiorca: - Spacja + punkty 12358 (Spacja-Enter-r)
+- Przejdź do pola Ukryta kopia do: - Spacja + punkty 1258 (Spacja-Enter-h)
+- Przejdź do treści wiadomości - Spacja + punkty 158 (Spacja-Enter-E)
+- Otwórz listę kontaktów - Spacja + punkty 124 (Spacja-f)
+- Nawigowanie po tekście - joystick lewo/prawo oraz klawisze kciukowe (lewy/prawy, poprzedni/następny) i klawisze kierunkowe
+- Przejdź do początku tekstu - Spacja + punkty 123 (Spacja-l)
+- Przejdź do końca tekstu - Spacja + punkty 456
+- Wyślij wiadomość - Spacja + punkty 234 (Spacja-s)
+- Wyjdź z wiadomości - Spacja + punkty 14 (Spacja-e)
+
+Podczas poruszania się po nowej wiadomości lub odpowiedzi (lub przekazanej wiadomości) zobaczysz dwa przyciski: Wyślij i Wyjdź. Możesz wybrać akcję powiązaną z przyciskiem (wysyłanie lub wychodzenie z wiadomości bez wysyłania), naciskając klawisz Enter lub dowolny przycisk przywoływania kursora nad wyświetlanym przyciskiem.
+Proszę przejść do rozdziału Edytowanie poniżej, aby dowiedzieć się, jak edytować treść e-maila.

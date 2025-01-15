@@ -1,0 +1,16 @@
+This application keeps your notes. Notes may be downloaded and synchronized with an IMAP or Google GMail server and via the server with all your other devices (a PC, tablet, phone, etc.). 
+You will see an “empty” announcement when you first Enter this menu item. To see your notes, you must log in to your account on a server in your BraillePenSync app on the smartphone connected with your BraillePen24. Then - while in the Notes menu - sync the email by pressing Space-dot234 (Space-s).
+If synced, you will see a list of accounts from which to choose. Enter one and read your notes. 
+After Entering the Notes menu item, you will see a list of folders – one per account, starting with “local”. This “local” folder is stored in the device only and will not get synchronized. All other folders are created when you first connect the device to the BraillePenSync application. See “Synchronizing BraillePen24 Data” section below.
+In any folder (local or synchronized), you will find a list of notes belonging to the account corresponding to the folder. Typically, you will find all the notes stored in a given account.
+The BraillePen24 uses computer braille for menus, so when viewing your notes, names will be shown in computer Braille. Once you open the note, the BraillePen24 will show the text in computer or literary Braille, according to how you set it in Settings (see below).
+When entering the account, you will see “empty” on the Braille display. To see the list of your notes on the server, press Space-s (Synchronize). 
+
+To create a new note, use the Space-n command.
+Browse the notes with the usual scrolling methods (joystick Left/Right or thumb Previous/Next keys) and Enter a note using the joystick down or Enter (dot 8). 
+Delete note - while on the notes list, press Space key + dot145 (Space-d) 
+Escaping a note without saving - Space + dot14 (Space-c).
+Escaping a note and save it - Space + dot15 (Space-e).
+
+Look for ways to edit a note in the Editing section of this manual.
+Notes that are modified or created on the device will be updated on the server during the next synchronization. Then, you will also see them in the application on your computer or mobile devices. In this way, all data from the device can be synchronized with your computer and smartphone.

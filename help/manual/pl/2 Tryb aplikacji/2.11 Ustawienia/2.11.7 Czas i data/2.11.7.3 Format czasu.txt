@@ -1,0 +1,1 @@
+Format wyświetlania czasu określany jest jako 12h lub 24h.

@@ -1,0 +1,43 @@
+This application lets you read and write (create a new or answer the received) e-mail. Messages may be downloaded from and sent to a server. The menu item enables you to Enter BraillePen24's email messaging system. You will see an “empty” announcement when you first Enter it. 
+To read your email, you must log in to your account on an IMAP or GMail server in the BraillePenSync app on the smartphone connected with your BraillePen24. Then, while in the Email menu on your BraillePen24, sync the email accounts by pressing Space-dot 234 (Space-S). A list of accounts will be created or updated when the device is synchronized with the server. When the synchronization of the accounts is done, you can Enter one of them (joystick DOWN or Enter key - dot 8) and press Space-S to get or update the list of folders and yet again in a folder (joystick DOWN or Enter key = dot 8) on the list of messages (provided the BraillePenSync application is connected to BraillePen24 and configured to connect to a server). More details are available in the “Synchronizing BraillePen24 Data” section below.
+The above-described series of sync operations must only be performed when a new account is synchronized for the first time or when you want to update the account or folder lists. If you have an account with its folders synchronized already, you can go directly to the folder you wish and sync the list in search for new messages.
+To summarize: when the accounts are already synchronized, enter one of the accounts (joystick DOWN or Enter key - dot 8) to see a list of folders. Choose a folder with the joystick DOWN or Enter key (dot 8) and sync (Space-s) to refresh your email messages list. The system will download about 50 messages. To see more, use "Download more" shortcut: Space key + dot 1348 (Space-Enter-m).
+Browse the e-mail list with the usual scrolling methods (joystick or thumb keys) and Enter into one using the Enter key (dot 8) or joystick DOWN.
+
+Here is a list of shortcuts available in the list of messages:
+Synchronize or email download - Space key + dot234 (Space-s)
+Download more messages - Space key + dot1348 (Space-Enter-m)
+Reply the sender - Space key + dot1235 (Space-r)
+Forward - Space key + dot124 (Space-f)
+Reply all - Space key + dot12358 (Space-Enter-r)
+Delete message - Space key + dot125 (Space-d)
+Delete permanently - Space key + dot1258 (Space-Enter-d)
+Beginning of text - Space key + dot123 (Space-l)
+End of test - Space key + dot456
+Open a message - Dot8 (Enter)
+Attachment menu—Space key + dot1356 (Space-z)
+
+The BraillePen24 uses computer Braille for menus, so when viewing your message titles, they will be shown in computer Braille too. You will see “empty” on the braille display if no messages are in the list.
+
+Reading a message is performed with the regular navigation keys (see below). Additionally, while reading, you can access an Attachment menu—Space key + dot 1 (Space-a). This menu is available only when the message has at least one attachment.
+The attachment menu is a list of names of files attached. To open an attachment, press dot8 (Enter). When an attachment is displayed, BraillePen24 will try to show any text that will be found in the attachment. This is useful for reviewing the contents of PDF or HTML documents and some other (see Addendum 3 - List of supported file formats that will convert to text readable in Braille when found in a message attachment).
+Exiting the attachment - Space key + dot15 (Space-e) or Spece key + dot14 (Space-c).
+
+To create a new message, use the Space key + dot 1345 (Space-n) command. The message form can be navigated and filled in using the following shortcuts:
+The Previous field - Space key + dot 23, Left thumb key (Previous)
+The Next field - Space key + dot 56, Right thumb key (Next)
+Theme field - Space key + dot 2348 (Space-Enter-s)
+Jump to Copy to: field - Space key + dot 148 (Space-Enter-c)
+Jump to Receiver: field - Space key + dot 12358 (Space-Enter-r)
+Jump to Blind copy to: field - Space key + dot 1258 (Space-Enter-h)	
+Jump to the message contents - Space key + dot 158 (Space-Enter-E)
+Open contact list - Space key + dot 124 (Space-f)
+Navigating text - Joystick Left/Right Thumb keys (Left/Right, Previous/Next) and cursor routing keys
+Jump to beginning of text - Space key + dot 123 (Space key + l)
+Jump to end of text - Space key + dot 456
+Send the message - Space key + dot 234 (Space + s)
+Exit the message - Space key + dot 14 (Space + e)
+
+While moving around a new message or a reply (or forwarded message), you will see two buttons: Send and Exit. You may choose an action linked to the button (sending or exiting the message without sending) by pressing the Enter key or any routing keys above the button.
+
+Please go to the Editing section below to learn how to edit the e-mail body text.

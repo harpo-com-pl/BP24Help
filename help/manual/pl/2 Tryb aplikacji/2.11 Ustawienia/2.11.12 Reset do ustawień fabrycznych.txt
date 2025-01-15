@@ -1,0 +1,1 @@
+Ta opcja usuwa zawartość urządzenia; wszystkie dane i pliki zostaną usunięte oraz przywrócone domyślne ustawienia. Przydatne jeśli chcesz oddać swoje urządzenie komuś do używania.

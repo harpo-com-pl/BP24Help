@@ -1,0 +1,9 @@
+Tylko do odczytu
+System dostarcza informacji, które nie mogą być modyfikowane.
+
+Przełączanie
+Umożliwia przełączanie ustawień, takich jak włączanie/wyłączanie itp. W menu BraillePen24 działa to jako lista dwóch ustawień. Proszę zapoznać się z opisem typu menu listy poniżej.
+W formularzach, o ile napotkasz na przełącznik (np. „Wydarzenie całodzienne: tak/nie”), należy użyć spacji, żeby przełączyć.
+
+Lista
+Dobrze nadaje się do wyboru jednego elementu z listy wielu. Najpierw, jeśli chcesz zmienić ustawienie, naciśnij Enter lub użyj przycisku przywoływania kursora nad nazwą ustawienia. Gdy jesteś w liście, zobaczysz jeden element listy na raz, poprzedzony znakiem ośmiopunktowym, który będzie pełny (wszystkie 8 punktów) lub "pusty" - punkty 1, 2, 7 i 8. Przemieszczaj się między elementami listy za pomocą klawiszy kciukowych Poprzedni/Następny. Następnie użyj Enter, Spacji lub przycisków przywoływania kursora, aby zaznaczyć aktualnie wyświetlany element z listy.

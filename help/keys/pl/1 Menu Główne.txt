@@ -1,0 +1,16 @@
+- Przejdź do poprzedniego (wyższego) poziomu - Spacja + punkty 1, joystick w górę
+- Przejdź do następnego poziomu (niższego, głębszego) - Spacja + punkty 4, joystick w dół
+- Aktywuj element menu - Spacja + punkt 8 (przycisk przywoływania kursora nad elementem menu)
+- Pierwszy element menu - Spacja + punkty 123 (Spacja + l)
+- Ostatni element menu - Spacja + punkty 456
+- Poprzedni element menu - Spacja + punkty 2, joystick w lewo
+- Następny element - Spacja + punkty 5, joystick w prawo
+- Synchronizuj - Spacja + punkty 234 (Spacja + s)
+- Następne pole - Spacja + punkty 23
+- Poprzednie pole - Spacja + punkty 56
+- Usuń element - Spacja + punkty 145 (Spacja + d)
+- Edytuj element - punkt 8
+- Nowy element - Spacja + punkty 1345 (Spacja + n)
+- Menu kontekstowe - Spacja + punkty 134 (Spacja + m)
+- Wyjdź z edycji - Spacja + punkty 15 (Spacja + e)
+- Zapisz edytowany formularz -  Spacja + punkty 234 (Spacja + s)

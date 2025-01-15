@@ -1,0 +1,3 @@
+This option enables or disables one-hand mode for users restricted to using a single hand. When you turn on your BraillePen24, you will be notified if one-hand mode is enabled.
+When using One-hand mode, the Spacebar must be pressed after most kinds of input are made. For example, to type a braille letter, press the corresponding braille keys either all at once or one at a time, and then press Space. To use a hotkey combination like Space + E to save and exit in the editor, you need to press Space, dot 1, dot 5, and then press Space again. To make a space while in the editor, you press Space, Space. 
+Only the thumb keys and the joystick are not affected by the need to press Space after information input.

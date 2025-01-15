@@ -1,0 +1,2 @@
+BraillePen24 can work autonomously when switched to Application Mode (with the switch at the rear of the unit, close to the on/off switch, slid to the right). Although in Application Mode, the device uses an Internet connection provided by the BraillePenSync app on the smartphone; the connection is seamless and does not distract the user. All data (e-mail, notes, contact details, etc.) can be read directly from BraillePen24.
+This mode's menu allows access to data (notes, e-mail, tasks, etc.) and settings.

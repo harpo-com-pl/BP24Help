@@ -1,0 +1,5 @@
+Ten element pokazuje aktualny czas. Po naciśnięciu klawisza kciukowego Następny zobaczysz bieżący dzień tygodnia oraz datę.
+Czas i data mogą synchronizować się, gdy połączysz BraillePen24 z urządzeniem mobilnym (smartfonem lub tabletem) za pomocą aplikacji BraillePenSync – zobacz sekcję „Synchronizacja danych BraillePen24” poniżej.
+Ustaw automatyczną synchronizację w Ustawieniach - Czas i Data - Ustawiaj czas automatycznie.
+Format wyświetlania daty i godziny jest określony w Ustawieniach - Czas i Data - Format godziny dla czasu oraz w Ustawieniach - Czas i Data - Format daty dla daty.
+Skrót globalny do wyświetlenia aktualnego czasu i daty to dwa klawisze Spacji + punkty 2345 (Spacje-t). Klawisze kciukowe Poprzedni/Następny przełączają między wyświetlaniem czasu a daty lub odwrotnie. Każdy klawisz Perkinsa kończy wyświetlanie czasu i daty.

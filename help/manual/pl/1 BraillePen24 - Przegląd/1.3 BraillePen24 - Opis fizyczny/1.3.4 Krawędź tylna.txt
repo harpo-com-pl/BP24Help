@@ -1,0 +1,17 @@
+Przycisk zasilania
+Przycisk zasilania znajduje się na tylnej krawędzi po prawej stronie urządzenia. Aby włączyć lub wyłączyć urządzenie, przytrzymaj ten przycisk przez około 3 sekundy. BraillePen24 potwierdzi dźwiękiem uruchomienie lub wyłączenie. Słowo „start...” pojawi się na wyświetlaczu brajlowskim podczas procesu uruchamiania.
+Przycisk zasilania służy również do resetowania BraillePen24 (po naciśnięciu i przytrzymaniu przez około 15 sekund). Ta funkcja jest pomocna w przypadku rzadkiego wystąpienia błędu oprogramowania urządzenia lub jeśli użytkownik zgubił się podczas nawigowania w menu.
+
+Przełącznik trybu aplikacji/terminala
+Na tylnej krawędzi po lewej stronie przycisku zasilania znajduje się przełącznik Aplikacja/Terminal. Przesuń go w lewo, aby używać urządzenia z dowolnym czytnikiem ekranu (screen readerem - mobilnym lub PC). Przesuń go w prawo (bliżej przycisku zasilania), aby korzystać z aplikacji zawartych w BraillePen24.
+
+Wyłącznik dźwięków
+Po środku tylnej krawędzi znajduje się przełącznik wyłącz dźwięki, który tłumi wszystkie dźwięki sygnalizacyjne wydobywające się z urządzenia (po przesunięciu go w lewo). Zwykłe działanie z dźwiękami ma miejsce po przesunięciu wyłącznika dźwięków w prawo. 
+Gdy aktywujesz tryb bez dźwięków (przełącznik w lewo), poczujesz wibrację jako potwierdzenie. W tym trybie wszystkie sygnały są przekazywane przez wibracje zamiast dźwięków.
+
+Port USB-C
+Skrajnie, po lewej stronie tylnej krawędzi znajdziesz owalny port USB-C. Użyj kabla dostarczonego wraz z BraillePen24 do podłączenia urządzenia do PC do ładowania.
+
+Gniazdo karty micro-SD
+Obok portu USB-C znajduje się gniazdo karty microSD. Na karcie SD możesz nagrywać książki w plikach. Akceptowane formaty plików książek to .txt i .brf. Format .brf jest najbardziej odpowiedni do czytania książek. Patrz – rozdział poświęcony plikom na karcie poniżej.
+xt to the USB-C port. You can record textbooks for reading on the SD card. The accepted formats of the book files are .txt and .brf. The .brf format is the most robust for reading books. See the section about files on microSD card below.

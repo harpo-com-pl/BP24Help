@@ -1,0 +1,23 @@
+- Synchronize: Space + dots 234 (Space + s)
+- Load more: Space + dots 1348 (Space + Enter + m)
+- Reply to sender: Space + dots 1235 (Space + r)
+- Forward: Space + dots 124 (Space + f)
+- Reply to all: Space + dots 12358 (Space + Enter + r)
+- Delete message: Space + dots 145 (Space + [button])
+- Permanently delete: Space + dots 1458 (Space + Enter + d)
+
+New email message:
+- Previous field: Space + dots 23, thumb key Previous (far left)
+- Next field: Space + dots 56, thumb key Next (far right)
+- Subject field: Space + dots 2348 (Space + Enter + s)
+- CC field: Space + dots 148 (Space + Enter + c)
+- Recipient field: Space + dots 12358 (Space + Enter + r)
+- BCC field: Space + dots 1258 (Space + Enter + h)
+- Message body: Space + dots 158 (Space + Enter + e)
+- Contacts list: Space + dots 124 (Space + f)
+
+Reading an email message:
+- Open the message: Dot 8 (Enter), any cursor invocation button
+- Navigate through the text: Thumb keys
+- Attachment menu: Space + dots 18 (Space + Enter + a)
+- Exit the message: Space + dots 14 (Space + c)

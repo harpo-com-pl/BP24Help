@@ -1,0 +1,4 @@
+– Pierwsze wydarzenie – spacja + punkty 123 (Spacja + l)
+– Ostatnie wydarzenie – spacja + punkty 456
+– Nowe wydarzenie – spacja + punkty 1345 (Spacja + n)
+– Usuń wydarzenie – spacja + punkty 145 (Spacja + d)

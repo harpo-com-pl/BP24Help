@@ -1,0 +1,4 @@
+- First event: Space + dots 123 (Space + l)
+- Last event: Space + dots 456
+- New event: Space + dots 1345 (Space + n)
+- Delete event: Space + dots 145 (Space + d)

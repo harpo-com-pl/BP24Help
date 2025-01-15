@@ -1,0 +1,5 @@
+- Nowa notatka - Spacja + punkty 1345 (Spacja + n)
+- Usuń notatkę - będąc na liście notatek -  Spacja + punkty 145 (Spacja + d)
+- Wyjdź z notatki bez zapisywania - Spacja + punkty 14 (Spacja + c)
+- Wyjdź z notatki i zapisz ją - Spacja + punkty 15 (Spacja + e)
+- Edytowanie notatki - patrz sekcja Edycja poniżej

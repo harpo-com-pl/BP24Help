@@ -1,0 +1,27 @@
+Navigating through the task list:
+- Previous task list: Joystick left, thumb key Previous (far left)
+- Next task list: Joystick right, thumb key Next (far right)
+- Synchronize task list: Space + dots 234 (Space + s)
+- Delete task list: Space + dots 145 (Space + d)
+- New task list: Space + dots 1345 (Space + n)
+- Enter the list to see tasks: Enter or Space + dot 4 or joystick down or any cursor invocation button
+
+Navigating through tasks within any list is done similarly:
+- Previous task: Joystick left, thumb key Previous
+- Next task: Joystick right, thumb key Next
+- Synchronize tasks in the list: Space + dots 234 (Space + s)
+- Delete task: Space + dots 145 (Space + d)
+- New task: Space + dots 1345 (Space + n)
+- Show more task details: Space + dots 23 (Back-tab) and Space + dots 56 (Tab)
+- Task description: Dot 8 (Enter)
+- Edit task: Use the context menu item "Edit"
+
+New task/editing task:
+- Previous field: Space + dots 23 (Space + Tab), thumb key Previous
+- Next field: Space + dots 56 (Space + Tab), thumb key Next
+- Fields you can edit: Name, Completion status, Due date, Description, Save button, Exit button
+- Changing a switch in the form requires pressing Space
+- Selecting a button requires pressing the Enter key
+- Save: Space + dots 234 (Space + s)
+- Cancel and exit: Space + dots 14 (Space + c)
+- Save and exit: Space + dots 15 (Space + e)

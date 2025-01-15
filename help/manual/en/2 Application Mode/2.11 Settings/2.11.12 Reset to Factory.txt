@@ -1,0 +1,1 @@
+This option clears the contents of the device; all data and files will be deleted, and default settings will be reset. Useful when you would like to give it to a new user.

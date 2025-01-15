@@ -1,0 +1,6 @@
+- 4 thumb keys
+- 1 joystick (up, Right, down, Left, action)
+- 8-key braille keyboard
+- 2 Spacebars
+- 24 touch cursor routing keys
+- 24 braille cells

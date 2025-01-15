@@ -1,0 +1,13 @@
+W Ustawieniach wybierasz parametry operacyjne BraillePen24:
+- Automatyczne wyłączanie
+- Wibracja i dźwięk
+- Brajl komputerowy
+- Brajl literacki
+- Domyślny Brajl
+- Język
+- Czas i data
+- Serwis
+- Sensor wyświetlacza
+- Tryb jednoręczny
+- Przywróć ustawienia domyślne
+- Reset do ustawień fabrycznych

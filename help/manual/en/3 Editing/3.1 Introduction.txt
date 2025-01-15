@@ -1,0 +1,20 @@
+When in the note or any other large text field, you may edit it using the following shortcuts:
+
+- New line: dot 8 (Enter) or Joystick action
+- BackSpace dot 7 (Backspace) or Space key + dot 12 (Space-b)
+- Previous line (paragraph) Space key + dot 1 (Space-a) or joystick up
+- Next line (paragraph) Space key + dot 4, joystick down
+- Previous word Space key + dot 2
+- Next word Space key + dot 5
+- Previous character Space key + dot 3 or joystick Left
+- Next character Space key + dot 6 or joystick Right
+- Beginning of note Space key + dots 1-2-3
+- End of note Space key + dots 4-5-6
+- Save without exit Space key + dot 234 (Space-s)
+- Save and exit Space key + dot 15 (Space-e)
+- Exit without saving Space key + dot 1356 (Space-z)
+- Switch Computer/Literary Braille - Space key + dot 1245 (Space-g)
+
+While editing a note, its text may be displayed on the Braille display in Computer Braille or
+Literary Braille. Switching between the two may be done by pressing Space-g. Specific Braille conversion rules table may be set in Settings.
+While in a note, the cursor is represented by dots 7 and 8 in Literary Braille mode and by dot 8 while in Computer Braille mode.

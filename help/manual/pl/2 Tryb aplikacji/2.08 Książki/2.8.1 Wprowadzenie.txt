@@ -1,0 +1,13 @@
+Książki to pliki tylko do odczytu. Nie mogą być edytowane. Należy używać skrótów nawigacyjnych tak samo jak w edytorze notatek, ale pamiętaj, że skróty edycyjne nie będą działać.
+
+Przeglądając zawartość karty SD w poszukiwaniu książek, zobaczysz pliki w folderze książek na karcie. Informacje o plikach składają się z:
+- poziomu folderu w katalogu karty SD - wartości 0 (plik lub folder znajduje się w folderze książek)
+- litery F lub D - oznaczającej Pliki lub Katalogi (foldery)
+- litery b lub t - oznaczającej typ pliku (b = .brf; t = .txt; puste dla folderów)
+- dwukropka - oddzielającego powyższe informacje od nazwy pliku lub folderu
+
+Przykłady:
+- 0D :Powieści - katalog (folder) o nazwie "Powieści" umieszczony w folderze "books" na karcie SD,
+- 1Fb:Grona gniewu.brf - plik o nazwie "Grona gniewu" umieszczony w folderze jeden poziom poniżej folderu książek.
+
+Foldery na poziomie 3 nie mogą być przeglądane - dlatego tylko cztery poziomy drzewa folderów są odpowiednie dla plików książek: 0, 1, 2 i 3.

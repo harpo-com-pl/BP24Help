@@ -1,0 +1,34 @@
+Ten element menu pozwala na wprowadzanie opisów zadań i ich dat. Podobnie jak w przypadku notatek czy e-maili, najpierw musisz zsynchronizować swoje konta z serwerem, naciskając Spacja-punkty 234 (Spacja-s). Po zakończeniu synchronizacji otrzymasz zadania ze wszystkich aktywnych kont, uporządkowane w listy alfabetycznie.
+Nawigacja po liście zadań:
+- Poprzednia lista - joystick w lewo, skrajny lewy klawisz kciukowy (Poprzedni)
+- Następna lista - joystick w prawo, skrajny prawy klawisz kciukowy (Następny)
+- Synchronizuj listę list - Spacja + punkty 234 (Spacja-s)
+- Usuń listę - Spacja + punkty 145 (Spacja-d)
+- Nowa lista zadań - Spacja + punkty 1345 (Spacja-n)
+- Wejście do listy, aby zobaczyć zadania - klawisz Enter lub Spacja + punkty 4, lub  joystick w dół, przycisk przywoływania kursora 
+
+System pobierze 16 wydarzeń na początku. Aby zobaczyć więcej, użyj skrótu „Pobierz więcej” - Spacja + punkty 1348 (Spacja-Enter-m).
+
+Nawigacja po zadaniach wewnątrz dowolnej listy może być wykonana w podobny sposób:
+- Poprzednie zadanie - joystick w lewo, skrajny lewy klawisz kciukowy (Poprzedni)
+- Następne zadanie - joystick w prawo, skrajny prawy klawisz kciukowy (Następny)
+- Pierwsze zadanie - Spacja + punkty 123 (Spacja-l)
+- Ostatnie zadanie - Spacja + punkty 456
+- Synchronizuj zadania na liście - Spacja + punkty 234 (Spacja-s)
+- Usuń zadanie - Spacja + punkty 145 (Spacja-d)
+- Nowe zadanie - Spacja + punkty 1345 (Spacja-n)
+- Pokaż więcej szczegółów zadania (data rozpoczęcia, czas aktualizacji, czas zakończenia i nazwa zadania) - Spacja + punkty 23 (Back-tab) oraz Spacja + punkty 56 (Tab)
+- Opis zadania - punkt 8 (Enter)
+- Edytuj zadanie - użyj elementu menu kontekstowego „Edytuj”
+
+Nowe zadanie/edytowanie zadania:
+- Poprzednie - Spacja + punkt 23 (Spacja-Tab), skrajny lewy klawisz kciukowy (Poprzedni)
+- Następne - Spacja + punkt 56 (Spacja-Tab), skrajny prawy klawisz kciukowy (Następny)
+Pola, które można edytować: Nazwa, Stan ukończenia, Termin, Opis, Przycisk Zapisz, Przycisk Wyjdź.
+
+Zmiana przełącznika w formularzu wymaga naciśnięcia Spacji.
+
+Wybór przycisku wymaga naciśnięcia klawisza Enter.
+- Zapisz - Spacja + punkty 234 (Spacja-s)
+- Anuluj i wyjdź - Spacja + punkty 14 (Spacja-c)
+- Zapisz i wyjdź - Spacja + punkty 15 (Spacja-e)

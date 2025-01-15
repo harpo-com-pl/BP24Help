@@ -1,0 +1,21 @@
+Podczas pracy w notatce lub innym dużym polu tekstowym możesz edytować je za pomocą następujących skrótów:
+Funkcje edycyjne
+Skróty klawiszowe
+Nowa linia: punkt 8 (Enter) lub akcja joysticka
+BackSpace: punkty 7 (Backspace) lub Spacja + punkty 12 (Spacja-b)
+Poprzednia linia (akapit): Spacja + punkty 1 (Spacja-a) lub joystick w górę
+Następna linia (akapit): Spacja + punkty 4, joystick w dół
+Poprzednie słowo: Spacja + punkty 2
+Następne słowo: Spacja + punkty 5
+Poprzedni znak: Spacja + punkty 3 lub joystick w lewo
+Następny znak: Spacja + punkty 6 lub joystick w prawo
+Początek notatki: Spacja + punkty 1-2-3
+Koniec notatki: Spacja + punkty 4-5-6
+Zapisz bez wyjścia: Spacja + punkty 234 (Spacja-s)
+Zapisz i wyjdź: Spacja + punkty 15 (Spacja-e)
+Wyjdź bez zapisywania: Spacja + punkty 14 (Spacja-c)
+Przełącz Braille komputerowy/literacki: Spacja + punkty 1245 (Spacja-g)
+
+
+Uwaga: Podczas edytowania notatki jej tekst może być wyświetlany na wyświetlaczu brajlowskim w Braillu komputerowym lub literackim. Przełączanie między tymi dwoma trybami można wykonać, naciskając Spację-g. Specyficzne zasady konwersji brajlowskiej mogą być ustawione w Ustawieniach.
+Podczas pracy w notatce kursor jest reprezentowany przez punkty 7 i 8 w trybie Brailla literackiego oraz przez punkt 8 w trybie Brailla komputerowego. 

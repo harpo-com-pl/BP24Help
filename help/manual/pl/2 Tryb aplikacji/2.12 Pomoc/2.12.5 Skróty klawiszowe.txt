@@ -1,0 +1,1 @@
+Zawiera listę skrótów klawiszowych użytych w urządzeniu.

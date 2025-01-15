@@ -1,0 +1,2 @@
+Pozwala użytkownikom wybrać tablicę Brailla literackiego lub komputerowego do odczytu i edytowania (przy otwieraniu e-maila, istniejącej lub nowej notatki itp.).
+To ustawienie nie ma zastosowania do menu lub komunikatów systemowych, które zawsze używają Brailla komputerowego.

@@ -1,0 +1,6 @@
+- 4 klawisze kciukowe
+- 1 joystick (góra, prawo, dół, lewo, akcja)
+- Klawiatura brajlowska 8-punktowa
+- 2 klawisze spacji
+- 24 przyciski przywoływania kursora
+- 24 komórki brajlowskie
