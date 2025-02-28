@@ -1,0 +1,4 @@
+== Connectivity ==
+· USB-C 2.0
+· Bluetooth V2.1 + EDR Class 2
+· Bluetooth 4.0

@@ -1,9 +1,0 @@
-Read Only:
-The system provides information that cannot be modified.
-
-Toggle:
-Allows you to toggle settings like on/off, etc. In BraillePen24, this works as a list of two settings. Please see the description of the list menu type below.
-In forms, if you encounter a toggle (like "All day event: Yes/No"), you will have to use Space to toggle.
-
-List:
-Good for choosing one item from a list of many. First, if you want to change a setting, press Enter or use the touch cursor above the setting name. When in the list, you will see one item of the list at a time, preceded by an eight-dot sign that will be either full (all 8 dots up) or "empty" - dots 1, 2, 7 and 8 up and the rest down. Move between the list items with the Previous / Next (the outer) thumb keys. Then use Enter, Space, or Routing keys to choose the currently displayed item from the list.

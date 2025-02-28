@@ -1,6 +1,0 @@
-This item shows the current time. After pressing Next thumb key you will see the current day of the week and date.
-The time and date may synchronize when you connect the BraillePen24 with a mobile device (smartphone or tablet) via the BraillePenSync application – see the “Synchronizing BraillePen24 Data” section below. 
-Set the auto-synchronization in Settings - Time and Date - Set Time Auto.
-The date and time display format is determined in Settings - Time and Date - Hour Format for time, and Settings - Time and Date - Date Format for date. 
-
-Two Space keys + dot2345 (Spaces-t) - is a global shortcut to show the current time and date on display. Previous/Next keys move from time to date display or vice versa. Any Perkins key finishes displaying the time and date.

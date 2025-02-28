@@ -1,1 +1,0 @@
-Allows users to choose one of the available 6-dot literary braille tables from a list of available braille tables. An 8-dot sign marks the selected item.

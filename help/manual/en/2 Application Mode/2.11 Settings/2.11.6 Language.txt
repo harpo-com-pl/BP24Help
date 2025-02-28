@@ -1,1 +1,0 @@
-Allows users to select a language from a list of available languages. An 8-dot sign indicates the selected language.

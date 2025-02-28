@@ -1,0 +1,21 @@
+== Contacts ==
+Contacts display one of the names present on all your address lists on all your accounts that are synchronized with the BraillePen24. When you enter Contacts you will first see an "s:" prompt to type in the name you want. After you have typed the text to find press Space key + dot124 (Space-f). You will see the first found element on display.
+Show more contact details (Name and other data that is available for the contact) with Space key + dot23 (Back-tab) and Space key + dot56 (Tab).
+Next search - press Space key + dot124 (Space-f).
+Navigating contact list:
+New contact - Space key + dot 1345 (Space key + n)
+The Previous field - Space key + dot 23, Left thumb key (thumb-up)
+The Next field - Space key + dot 56, Right thumb key (thumb-down)
+Phone call - Space key + dot148 (Space-Enter-c) - this function displays a notification with the phone number on the smartphone's screen; you can use it to call the number
+New contact form:
+The Previous field - Space key + dot 23, Left thumb key (thumb-up)
+The Next field - Space key + dot 56, Right thumb key (thumb-down)
+First name - Space key + dot 13458 (space-Enter-n)
+Name - Space key + dot 2348 (space-Enter-s)
+E-mail address - Space key + dot 158 (Space-Enter-e) this is a combined, two-element field, consisting of the label and the actual e-mail address
+Phone number - Space key + dot 12348 (Space-Enter-p) this is a combined, two-element field, consisting of the label and the actual phone number
+Save - Space key + dot 234 (Space-s)
+Find name - Space key + dot 124 (Space-f)
+Add a phone number: Space key + dot 12348 (Space-Enter-p)
+Add an email address: Space key + dot 158 (Space-Enter-e)
+Add an organization: Space key + dot 1358 (Space-Enter-o)

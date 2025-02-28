@@ -1,0 +1,2 @@
+== Date Format ==
+The display format of the date is determined between a number of predefined settings.

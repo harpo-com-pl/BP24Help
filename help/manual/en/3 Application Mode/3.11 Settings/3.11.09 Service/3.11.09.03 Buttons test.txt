@@ -1,0 +1,2 @@
+== Buttons test ==
+When in doubt if you keyboard responds well you may use this test..

@@ -1,0 +1,7 @@
+== Long-life Battery ==
+· Lasts 10 hours or more
+· Recharges from PC through USB-C port
+· Auto shut-off
+· Lithium-ion polymer battery
+· Compatible with any standard USB-C A/C adapter
+· Voltage rating: 3.7V

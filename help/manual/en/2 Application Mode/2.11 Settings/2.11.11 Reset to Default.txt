@@ -1,1 +1,0 @@
-When this option is run, you will reset all the settings of the device to default (auto-off time, language, Braille tables etc.). This action does not delete any data or disable any connections with BraillePenSync app or any screen reading program.

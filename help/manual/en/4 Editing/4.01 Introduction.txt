@@ -1,0 +1,3 @@
+Introduction for Editing
+Editing
+When in the note or any other large text field, you may edit it using the following shortcuts:

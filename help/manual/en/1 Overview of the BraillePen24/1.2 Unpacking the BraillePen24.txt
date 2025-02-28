@@ -1,6 +1,0 @@
-The package contains the following items:
-    - BraillePen24
-    - Lanyard
-    - USB-C cable
-    - 3 cell-protecting frames with thin plastic film
-    - Card with QR code directing to the full User Manual

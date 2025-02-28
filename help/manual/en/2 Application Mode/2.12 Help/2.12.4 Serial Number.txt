@@ -1,1 +1,0 @@
-Displays serial number of the BraillePen24 unit you use.

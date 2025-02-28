@@ -1,0 +1,4 @@
+== Vibration and Sound ==
+Allows users to set sounds and vibrations ON or OFF. When sounds are on, the unit will provide sound cues for its actions (like switching on and off, etc.) - similarly vibration.
+Choose one of the options: Vibration and sound, Vibration and Sound.
+Silence switch is useful in an urgent situation, like in a concert, when you need to suppress the sound signals. When the switch is deactivated again, the device returns to its previous state.

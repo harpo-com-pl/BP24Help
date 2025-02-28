@@ -1,0 +1,2 @@
+== List ==
+Good for choosing one item from a list of many. First, if you want to change a setting, press Enter or use the touch cursor above the setting name. When in the list, you will see one item of the list at a time, preceded by an eight-dot sign that will be either full (all 8 dots up) or "empty" - dots 1, 2, 7 and 8 up and the rest down. Move between the list items with the Previous / Next (the outer) thumb keys. Then use Enter, Space, or Routing keys to choose the currently displayed item from the list.

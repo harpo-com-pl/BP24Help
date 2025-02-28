@@ -1,1 +1,0 @@
-Informs if you are connected to BraillePenSync app on your smartphone.

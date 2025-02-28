@@ -1,0 +1,3 @@
+== Toggle ==
+Allows you to toggle settings like on/off, etc. In BraillePen24, this works as a list of two settings. Please see the description of the list menu type below.
+In forms, if you encounter a toggle (like "All day event: Yes/No"), you will have to use Space to toggle.

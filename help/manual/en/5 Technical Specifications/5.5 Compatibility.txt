@@ -1,3 +1,0 @@
-- Windows computers (32 and 64 bits)
-- JAWS and other screen readers
-- Apple products with iOS 10 or macOS 10.12 (or newer) and VoiceOver (MAC, iPhone, iPad)

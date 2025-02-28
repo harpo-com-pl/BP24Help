@@ -1,1 +1,0 @@
-The display format of the time is determined between 12h and 24h.

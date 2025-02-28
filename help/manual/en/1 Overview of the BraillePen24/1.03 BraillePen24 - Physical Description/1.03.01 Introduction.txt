@@ -1,0 +1,3 @@
+Introduction for BraillePen24 - Physical Description
+Figure 1: BraillePen24
+The BraillePen24 has a 24-cell braille display, an 8-dot Perkins-style braille keyboard, a joystick, and a number of additional keys for navigation. It includes the following elements:

@@ -1,1 +1,0 @@
-A a series of activating and deactivating all Braille cells that helps remove any debris from the cells. 

@@ -1,2 +1,0 @@
-List of devices connected in terminal mode (HID and serial). Each item on the list has a preceding mark showing if the connection is active at the moment: 8-dot sign (dot12345678). When the connection is not active you will see dot1478. The next Braille cell shows type of connection: "h" for HID or "s" for serial.
-There may be up to four connections available at the same time. In this menu, you will be able to switch between them by pressing Space key while the requested device's name is displayed.

@@ -1,0 +1,2 @@
+== Update firmware ==
+The firmware upgrade can only be performed with a new firmware version in an available file. Please use the firmware upgrade with caution: any interruption during the upgrade may render the device unusable until sent for service to an authorized workshop.

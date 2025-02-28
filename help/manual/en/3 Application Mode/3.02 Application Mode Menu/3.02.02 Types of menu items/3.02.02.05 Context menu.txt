@@ -1,0 +1,3 @@
+== Context menu ==
+Apart from the regular menu, you can access the Context menu. The fast context menu provides the most relevant and frequently used commands. To reach the Context Menu, use the Space key + dot 1, 3, 4 (Space-m) keyboard shortcut. One interesting feature of this menu is that it provides information on key shortcuts leading to all the functions present in the Context menu. It helps to memorize the shortcuts, which is the fastest way of operating.
+If, for any reason, you want to resign from taking any action in the context menu, to exit the menu, press Space key + dot 1, 5 (Space-e).
