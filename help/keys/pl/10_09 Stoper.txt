@@ -1,0 +1,2 @@
+== Stoper ==
+Zresetuj stoper - Spacja + punkty 14 (Spacja + c)

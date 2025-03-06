@@ -1,0 +1,13 @@
+== Edytor tekstu ==
+Nowa linia - punkt 8 (Enter) lub joystick akcja
+BackSpace - punkty 7 (Backspace) lub Spacja + punkty 12 (Spacja + b)
+Poprzednia linia (akapit) - Spacja + punkty 1 (Spacja + a) lub joystick w górę
+Następna linia (akapit) - Spacja + punkty 4, joystick w dół
+Poprzednie słowo - Spacja + punkty 2
+Następne słowo - Spacja + punkty 5
+Poprzedni znak - Spacja + punkty 3 lub joystick w lewo
+Następny znak - Spacja + punkty 6 lub joystick w prawo
+Początek notatki - Spacja + punkty 1-2-3
+Koniec notatki - Spacja + punkty 4-5-6
+Zapisz bez wyjścia - Spacja + punkty 234 (Spacja + s)
+Wyjdź - Spacja + punkty 14 (Spacja + c)

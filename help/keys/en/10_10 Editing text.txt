@@ -1,0 +1,13 @@
+== Editing text ==
+New line - dot8 (Enter) or Joystick action
+BackSpace – dot7 or Space key + dot12 (Space-b)
+Previous line (paragraph) - Space key + dot1 (Space-a) or joystick up
+Next line (paragraph) - Space key + dot4, joystick down
+Previous word - Space key + dot2
+Next word - Space key + dot5
+Previous character - Space key + dot3 or joystick Left
+Next character - Space key + dot6 or joystick Right
+Beginning of note - Space key + dot123 (Space-l)
+End of note - Space key + dot456
+Save - Space key + dot234 (Space-s)
+Exit - Space key + dot14 (Space-c)

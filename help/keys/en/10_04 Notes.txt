@@ -1,0 +1,6 @@
+== Notes ==
+New note - Space key + dot1345 (Space-n)
+Delete note - while on the notes list, press Space key + dot145 (Space-d)
+Escaping a note without saving - Space + dot14 (Space-c)
+Escaping a note and save it - Space + dot15 (Space-e)
+Editing a note - see Editing section below

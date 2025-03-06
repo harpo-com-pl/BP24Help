@@ -1,0 +1,2 @@
+== Stop watch ==
+Te reset the stop watch - Space key + dot14 (Space-c)
