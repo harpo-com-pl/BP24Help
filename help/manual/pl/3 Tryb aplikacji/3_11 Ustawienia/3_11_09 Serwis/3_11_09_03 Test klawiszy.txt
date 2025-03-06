@@ -1,0 +1,2 @@
+== Test klawiszy ==
+Kiedy masz wątpliwość co do właściwego działania klawiszy możesz wykonać ten test.

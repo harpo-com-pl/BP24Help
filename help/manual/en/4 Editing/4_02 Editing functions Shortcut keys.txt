@@ -1,0 +1,16 @@
+== Editing functions Shortcut keys ==
+New line - dot8 (Enter) or Joystick action
+BackSpace - dot7 (Backspace) or Space key + dot12 (Space-b)
+Previous line (paragraph) - Space key + dot1 (Space-a) or joystick up
+Next line (paragraph) - Space key + dot4, joystick down
+Previous word - Space key + dot2
+Next word - Space key + dot5
+Previous character - Space key + dot3 or joystick Left
+Next character - Space key + dot6 or joystick Right
+Beginning of note - Space key + dots 1-2-3
+End of note Space key + dots 4-5-6
+Save - Space key + dot234 (Space-s)
+Exit - Space key + dot15 (Space-e)
+While editing a note, its text may be displayed on the Braille display in Computer Braille or
+Literary Braille. Switching between the two may be done by pressing Space-g. Specific Braille conversion rules table may be set in Settings.
+While in a note, the cursor is represented by dots 7 and 8 in Literary Braille mode and by dot8 while in Computer Braille mode.

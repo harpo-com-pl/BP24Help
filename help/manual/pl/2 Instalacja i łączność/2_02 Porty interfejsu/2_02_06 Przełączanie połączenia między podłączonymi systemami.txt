@@ -1,0 +1,3 @@
+== Przełączanie połączenia między podłączonymi systemami ==
+Ponieważ możesz łączyć się z wieloma urządzeniami jednocześnie, potrzebujesz sposobu na przełączanie między nimi. Aby to zrobić, krótko naciśnij włącznik. Spowoduje to przełączenie urządzenia na następne aktywne urządzenie.
+Przełączanie jest możliwe w menu trybu aplikacji – Połączenia.

@@ -1,0 +1,5 @@
+== Pairing the BraillePen24 as a Terminal with a Mobile Phone ==
+The BraillePen24 can be paired with mobile phones as a Bluetooth braille display. The
+pairing must be initialized from the phone, tablet, or PC, just as you would pair with any other keyboard or Bluetooth device. It may be connected through an HID (Human Interface Device). Please note that another connection with your phone will be made over Bluetooth Low Energy for application data synchronization using a particular BraillePenSync application.
+Please don’t confuse the two – look for the terminal connection in the screen reader’s menus and the data synchronization Bluetooth Low Energy connection in the BraillePenSync app.
+For more information, refer to your mobile device screen reader user guide.

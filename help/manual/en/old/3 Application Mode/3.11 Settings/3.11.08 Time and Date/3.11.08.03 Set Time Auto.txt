@@ -1,0 +1,2 @@
+== Set Time Auto ==
+Determines if the time will be synchronized automatically with the connected mobile device. When set to On, the synchronization is performed each time the connection to the BraillePenSync application is established.

@@ -1,0 +1,4 @@
+Wprowadzenie do Edycja
+Edycja
+Podczas pracy w notatce lub innym dużym polu tekstowym możesz edytować je za pomocą następujących skrótów:
+Uwaga: Podczas edytowania notatki jej tekst może być wyświetlany na wyświetlaczu brajlowskim w Braillu komputerowym lub literackim. Przełączanie między tymi dwoma trybami można wykonać, naciskając Spację-g. Specyficzne zasady konwersji brajlowskiej mogą być ustawione w Ustawieniach.Podczas pracy w notatce kursor jest reprezentowany przez punkty 7 i 8 w trybie Brailla literackiego oraz przez punkt 8 w trybie Brailla komputerowego.

@@ -1,0 +1,2 @@
+== Key Test ==
+When in doubt if your keyboard responds well, you may use this test..

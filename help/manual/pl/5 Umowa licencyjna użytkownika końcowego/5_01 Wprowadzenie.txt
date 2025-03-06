@@ -1,0 +1,5 @@
+Wprowadzenie do Umowa licencyjna użytkownika końcowego
+Umowa licencyjna użytkownika końcowego
+Korzystając z tego Produktu (BraillePen24), wyrażasz zgodę na następujące minimalne warunki:
+1. Udzielenie licencji. Harpo udziela Użytkownikowi końcowemu niewyłącznego, niezbywalnego prawa i licencji na korzystanie z Oprogramowania w tym produkcie.
+2. Własność oprogramowania. Użytkownik końcowy potwierdza, że ​​firma Harpo zachowuje wszelkie prawa, tytuły i udziały w oryginale oraz wszelkich kopiach oprogramowania zawartego w tym produkcie. Użytkownik końcowy zgadza się nie modyfikować, nie przenosić, nie tłumaczyć, dekompilować, dezasemblować, odtwarzać kodu źródłowego ani nie upubliczniać oprogramowania tego produktu w żaden sposób.

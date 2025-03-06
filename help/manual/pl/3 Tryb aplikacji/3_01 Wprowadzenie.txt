@@ -1,0 +1,4 @@
+Wprowadzenie do Tryb aplikacji
+Tryb aplikacji
+BraillePen24 może działać autonomicznie, gdy jest przełączony na tryb aplikacji (przełącznik z tyłu urządzenia, blisko przełącznika włączania/wyłączania, przesunięty w prawo). W trybie aplikacji urządzenie korzysta z połączenia internetowego dostarczanego przez aplikację BraillePenSync na smartfonie, połączenie jest płynne i nie rozprasza użytkownika. Wszystkie dane (e-maile, notatki, szczegóły kontaktów itp.) można odczytywać bezpośrednio z serwera za pomocą łącza internetowego BraillePen24.
+Menu w tym trybie umożliwia dostęp do danych (notatki, e-maile, zadania itp.) oraz ustawień.

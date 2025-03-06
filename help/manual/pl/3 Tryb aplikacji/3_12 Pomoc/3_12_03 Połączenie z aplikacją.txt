@@ -1,0 +1,2 @@
+== Połączenie z aplikacją ==
+Informuje, czy jesteś połączony z aplikacją BraillePenSync na swoim smartfonie.

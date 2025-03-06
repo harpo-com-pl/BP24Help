@@ -1,0 +1,13 @@
+== Aktualizacja oprogramowania systemowego ==
+Aktualizacja oprogramowania układowego może być przeprowadzona tylko przy użyciu nowej wersji oprogramowania układowego w dostępnym pliku. Proszę korzystać z aktualizacji oprogramowania układowego ostrożnie: każde przerwanie podczas aktualizacji może sprawić, że urządzenie stanie się bezużyteczne aż do wysłania go do serwisu.
+Aby zaktualizować BraillePen24 za pomocą pliku aktualizacyjnego, wykonaj następujące kroki:
+Upewnij się, że karta SD jest poprawnie sformatowana i zawiera odpowiedni plik oprogramowania przed rozpoczęciem procesu aktualizacji.
+Przejdź do menu "Ustawienia" na BraillePen24.
+Wybierz opcję "Serwis".
+Przejdź do "Aktualizacja Oprogramowania".
+Zobaczysz listę plików oprogramowania znajdujących się w głównym folderze karty SD włożonej do urządzenia. Na przykład, plik oprogramowania może mieć nazwę "firm_1_3_32.bin".
+Wybierz pożądany plik oprogramowania, którego chcesz użyć do aktualizacji.
+Powinieneś zobaczyć komunikat "aktualizacja w toku". Proces ten zajmie około jednej minuty.
+Jeśli wystąpi błąd, zobaczysz komunikat "błąd aktualizacji" wraz z numerem błędu. Upewnij się, że zanotujesz ten numer, aby zgłosić go do działu serwisowego.
+Po pomyślnym zakończeniu aktualizacji usłyszysz sygnał dźwiękowy, a urządzenie automatycznie się wyłączy.
+Włącz ponownie BraillePen24, aby rozpocząć korzystanie z zaktualizowanego urządzenia.

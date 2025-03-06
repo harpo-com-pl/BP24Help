@@ -1,0 +1,2 @@
+== Skróty klawiszowe ==
+Zawiera listę skrótów klawiszowych użytych w urządzeniu.

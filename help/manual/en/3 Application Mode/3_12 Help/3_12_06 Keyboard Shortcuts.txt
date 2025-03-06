@@ -1,0 +1,2 @@
+== Keyboard Shortcuts ==
+This is where you can check all keyboard shortcuts to be used in the device.

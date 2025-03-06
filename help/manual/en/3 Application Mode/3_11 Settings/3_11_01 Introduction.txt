@@ -1,0 +1,14 @@
+Introduction for Settings
+In Settings, you choose the BraillePen24 operating parameters:
+Auto off,
+Vibration and Sound,
+Computer Braille,
+Literary Braille,
+Default Braille,
+Language,
+Time and Data,
+Service,
+Display sensor,
+One Hand Mode,
+Reset to Default,
+Reset to Factory

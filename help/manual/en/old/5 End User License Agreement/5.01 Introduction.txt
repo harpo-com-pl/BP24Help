@@ -1,0 +1,6 @@
+Introduction for End User License Agreement
+End User License Agreement
+By using this Product (BraillePen24), you agree to the following minimum terms:
+1. License Grant. Harpo grants to End User a non-exclusive, non-transferable Right and licence to use the Software on this product.
+2. Ownership of Software. The end user acknowledges that Harpo retains all Rights, title, and interest in and to the original and any copies of software incorporated into this product. The end user agrees not to modify, port, translate, decompile, disassemble, reverse
+engineer, or make the software of this product public in any way.

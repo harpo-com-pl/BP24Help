@@ -1,0 +1,2 @@
+== Format daty ==
+Format wyświetlania daty określany jest między kilkoma predefiniowanymi ustawieniami.

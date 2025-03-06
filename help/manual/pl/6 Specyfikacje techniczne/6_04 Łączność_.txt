@@ -1,0 +1,4 @@
+== Łączność: ==
+USB-C 2.0
+Bluetooth V2.1 + EDR Klasa 2
+Bluetooth 4.0

@@ -1,0 +1,3 @@
+== Połączenia ==
+Lista urządzeń podłączonych w trybie terminalowym (HID i szeregowy).
+Każdy element na liście ma poprzedzający znak wskazujący, czy połączenie jest obecnie aktywne: znak 8-punktowy (punkty 12345678). Gdy połączenie nie jest aktywne, zobaczysz punkty 1478. Następna komórka brajlowska pokazuje typ połączenia: "h" dla HID lub "s" dla szeregowego.Może być dostępnych jednocześnie do czterech połączeń. W tym menu będziesz mógł przełączać się między nimi, naciskając klawisz Spacji, gdy wyświetlana jest nazwa żądanego urządzenia.

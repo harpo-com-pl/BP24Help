@@ -1,0 +1,2 @@
+== Ustaw czas automatyczny ==
+Określa, czy czas będzie synchronizowany automatycznie z podłączonym urządzeniem mobilnym. Gdy opcja ta ustawiona jest na WŁĄCZONY, synchronizacja jest wykonywana za każdym razem, gdy nawiązywane jest połączenie z aplikacją BraillePenSync.

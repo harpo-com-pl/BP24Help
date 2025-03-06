@@ -1,0 +1,2 @@
+Introduction for Service
+This item's submenus consists of troubleshooting options useful in case of technical problems with BraillePen24:

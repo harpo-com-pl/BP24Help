@@ -1,0 +1,2 @@
+== About ==
+Displays the BraillePen24’s key information. Includes options for starting the firmware and memory upgrade process.

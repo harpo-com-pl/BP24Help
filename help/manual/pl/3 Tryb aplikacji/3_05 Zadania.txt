@@ -1,0 +1,32 @@
+== Zadania ==
+Ten element menu pozwala na wprowadzanie opisów zadań i ich dat. Podobnie jak w przypadku notatek czy e-maili, najpierw musisz zsynchronizować swoje konta z serwerem, naciskając Spacja-punkty 234 (Spacja-s). Po zakończeniu synchronizacji otrzymasz zadania ze wszystkich aktywnych kont, uporządkowane w listy alfabetycznie. Po wejściu do jednej z list zobaczysz listę wydarzeń przypisanych do wybranej listy, należących do wszystkich zdefiniowanych w BraillePenSync kont.
+Nawigacja po liście zadań:
+Poprzednia lista - joystick w lewo, skrajny lewy klawisz kciukowy (Poprzedni)
+Następna lista - joystick w prawo, skrajny prawy klawisz kciukowy (Następny)
+Synchronizuj listę list - Spacja + punkty 234 (Spacja-s)
+Usuń listę - Spacja + punkty 145 (Spacja-d)
+Nowa lista zadań - Spacja + punkty 1345 (Spacja-n)
+Nawigacja po zadaniach wewnątrz dowolnej listy może być wykonana w podobny sposób:
+Poprzednie zadanie - joystick w lewo, skrajny lewy klawisz kciukowy (Poprzedni)
+Następne zadanie - joystick w prawo, skrajny prawy klawisz kciukowy (Następny)
+Pierwsze zadanie - Spacja + punkty 123 (Spacja-l)
+Ostatnie zadanie - Spacja + punkty 456
+Synchronizuj zadania na liście - Spacja + punkty 234 (Spacja-s)
+Usuń zadanie - Spacja + punkty 145 (Spacja-d)
+Nowe zadanie - Spacja + punkty 1345 (Spacja-n)
+Pokaż więcej szczegółów zadania (data rozpoczęcia, czas aktualizacji, czas zakończenia i nazwa zadania) - Spacja + punkty 23 (Back-tab) oraz Spacja + punkty 56 (Tab)
+Opis zadania - punkt 8 (Enter)
+Edycja zadania, na którym znajduje się kursor - klawisze Spacja + Enter + punkty 15 (Spacja-Enter-e)
+Nowe zadanie/edytowanie zadania:
+Podczas nawigacji po formularzu zobaczysz ich opisy i kilka pól czasu. Pola te są wyróżnione za pomocą etykiet:
+• czas kiedy należy wykonać zadanie – litera “d”
+• czas aktualizacji – litera “u”
+• czas wykonania (kiedy zadanie zostało wykonane) -litera “c”
+Skróty komend dostępnych podczas edycji formularza zadania:
+Poprzednie - Spacja + punkt 23 (Spacja-Tab), skrajny lewy klawisz kciukowy (Poprzedni)
+Następne - Spacja + punkt 56 (Spacja-Tab), skrajny prawy klawisz kciukowy (Następny)
+Pola, które można edytować: Nazwa, Stan ukończenia, Termin, Opis, Przycisk Zapisz, Przycisk Wyjdź.
+Zmiana przełącznika w formularzu wymaga naciśnięcia Spacji.
+Wybór przycisku wymaga naciśnięcia klawisza Enter.
+Zapisz - Spacja + punkty 234 (Spacja-s).
+Wyjdź - Spacja + punkty 14 (Spacja-c).

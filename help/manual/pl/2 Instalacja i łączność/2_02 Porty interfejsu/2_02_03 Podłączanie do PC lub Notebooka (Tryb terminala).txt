@@ -1,0 +1,16 @@
+== Podłączanie do PC lub Notebooka (Tryb terminala) ==
+BraillePen24 może być używany jako wyświetlacz brajlowski z popularnymi czytnikami ekranu (screen reader) na PC, takimi jak JAWS, NVDA i innymi. Komputer lub notebook musi mieć bezprzewodowy interfejs Bluetooth (wbudowany lub doinstalowany). Zalecamy użycie systemu Windows 10 lub nowszego do połączenia z wymienionymi czytnikami ekranu przez Bluetooth.
+Dostępne są dwa tryby interfejsu cyfrowego do połączenia terminala brajlowskiego: HID (Human Interface Device) lub szeregowy. Połączenie szeregowe to tryb starego typu, który jest używany w większości istniejących czytników ekranu. HID to nowy standard, który łączy się automatycznie, bez dodatkowej konfiguracji poza zwykłym parowaniem urządzeń.W przypadku połączenia szeregowego w niektórych przypadkach będziesz musiał znać numer wirtualnego portu szeregowego, który będziesz używać. Aby sprawdzić, który wirtualny port szeregowy jest udostępniany przez interfejs Bluetooth lub USB w systemie Windows:
+Otwórz Panel sterowania (Start/Ustawienia/Panel sterowania).
+Wybierz „System” z listy.
+W otwartym oknie wybierz zakładkę „Sprzęt”.
+Na tej zakładce kliknij „Menadżer urządzeń”.
+Otwórz gałąź „Porty (COM i LPT)” w widoku drzewa Menadżera urządzeń.
+Szukaj czegoś podobnego do „standardowego portu szeregowego przez Bluetooth (COM 13)”. Może być ich więcej. Zapisz liczbę po COM.
+To jest numer wirtualnego portu COM, do którego podłączone jest urządzenie. Czytnik ekranu chce go znać.
+W systemie istnieją dwa porty Bluetooth – jeden wychodzący i jeden przychodzący. Chcemy użyć portu wychodzącego. Gdy jesteś połączony przez Bluetooth, port szeregowy używany przez Twoje urządzenie można również znaleźć we właściwościach podłączonego urządzenia w Menedżerze Bluetooth.Niektóre czytniki ekranu nie obsługują wyższych wartości portów COM. W takim przypadku powinieneś zmienić numer portu. Zrób to, wybierając gałąź „Porty (COM i LPT)” w Menadżerze urządzeń, jak opisano powyżej, a następnie kliknij prawym przyciskiem myszy na porcie, który chcesz zmienić (alternatywnie Shift-F10 również zadziała). Otworzy się menu kontekstowe, a Ty możesz kliknąć „Właściwości”. Następnie kliknij na zakładkę „Ustawienia portu” i przycisk „Zaawansowane”. W otwartym oknie znajdziesz pole listy „Numer portu COM”, gdzie możesz wybrać wolny numer portu. Numery niedostępne będą odpowiednio oznaczone.
+Należy pamiętać, że dla niektórych czytników ekranu możesz mieć jednocześnie aktywne dwa połączenia: HID i szeregowe. Będziesz musiał wybrać, które chcesz używać w menu Urządzenia BraillePen24.
+JAWS
+Sterownik JAWS dla BraillePen24 jest dołączony do oprogramowania JAWS.
+Inne czytniki ekranu
+BraillePen24 jest kompatybilny z innymi czytnikami ekranu (screen readerami), takimi jak NVDA. Działa z różnymi czytnikami ekranu za pomocą interfejsu HID lub szeregowego, więc w niektórych przypadkach podczas łączenia przez Bluetooth możesz zobaczyć swoje urządzenie na liście urządzeń dwa razy – raz jako interfejs szeregowy i drugi raz jako HID (Human Interface Device).

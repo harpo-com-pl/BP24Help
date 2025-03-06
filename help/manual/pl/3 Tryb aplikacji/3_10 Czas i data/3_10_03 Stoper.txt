@@ -1,0 +1,2 @@
+== Stoper ==
+Stoper to prosty licznik, który pokazuje upływający czas. Naciśnięcie Spacji uruchamia i zatrzymuje odliczanie czasu. Aby zresetować czas do 00:00:00, naciśnij klawisz Spacji + punkty 14 (Spacja-c).

@@ -1,0 +1,3 @@
+== Numer seryjny ==
+Wyświetla numer seryjny urządzenia BraillePen24, którego używasz.
+W kolejnych pozycjach menu Pomoc znajdziesz informację o tym jak używać Braillepen24:

@@ -1,0 +1,7 @@
+== Types of menu items ==
+The system provides information that cannot be modified.
+Allows you to toggle settings like on/off, etc. In BraillePen24, this works as a list of two settings. Please see the description of the list menu type below.
+In forms, if you encounter a toggle (like "All day event: Yes/No"), you will have to use Space to toggle.
+Good for choosing one item from a list of many. First, if you want to change a setting, press Enter or use the touch cursor above the setting name. When in the list, you will see one item of the list at a time, preceded by an eight-dot sign that will be either full (all 8 dots up) or "empty" - dots 1, 2, 7 and 8 up and the rest down. Move between the list items with the Previous / Next (the outer) thumb keys. Then use Enter, Space, or Routing keys to choose the currently displayed item from the list.
+Apart from the regular menu, you can access the Context menu. The fast context menu provides the most relevant and frequently used commands. To reach the Context Menu, use the Space key + dot134 (Space-m) keyboard shortcut. One interesting feature of this menu is that it provides information on key shortcuts leading to all the functions present in the Context menu. It helps to memorize the shortcuts, which is the fastest way of operating.
+If, for any reason, you want to resign from taking any action in the context menu, to exit the menu, press Space key + dot15 (Space-e).

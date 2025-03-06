@@ -1,0 +1,3 @@
+== Braille komputerowy ==
+Pozwala użytkownikom wybrać jedną z dostępnych tablic Brailla ośmiopunktowego komputerowego. Znak 8-punktowy oznacza wybrany element.
+Braille komputerowy jest przydatny do edycji komputerowej gdyż jeden komputerowy znak brajlowski odpowiada jednemu znakowi w czarnodruku. Braille komputerowy może być używany w tekstach (notatki, e-maile, książki) alternatywnie do Brailla literackiego. Natomiast w menu i komunikatach systemowych BraillePen24 zawsze jest wykorzystywane Braille komputerowy, nie można przełączyć na Braille literacki w tym wypadku.

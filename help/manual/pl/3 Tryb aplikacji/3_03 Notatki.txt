@@ -1,0 +1,13 @@
+== Notatki ==
+Ta aplikacja przechowuje Twoje notatki. Notatki mogą być pobierane i synchronizowane z serwerem IMAP lub Google GMail oraz za pośrednictwem serwera ze wszystkimi innymi urządzeniami (PC, tablet, telefon itp.).
+Po pierwszym wejściu do tego elementu menu zobaczysz komunikat „brak”. Aby zobaczyć swoje notatki z serwera, musisz zalogować się na swoje konto na serwerze w aplikacji BraillePenSync na smartfonie połączonym z BraillePen24. Następnie – będąc w menu Notatki – zsynchronizuj e-mail, naciskając Spacja + punkty 234 (Spacja-s).
+Jeśli synchronizacja się powiedzie, zobaczysz listę kont do wyboru. Wejdź w jedno z nich i przeczytaj swoje notatki.
+Po wejściu do elementu menu Notatki zobaczysz listę folderów – jeden na każde konto. Wszystkie foldery są tworzone po pierwszym połączeniu urządzenia z aplikacją BraillePenSync. Patrz rozdział „Synchronizacja danych BraillePen24” poniżej.W każdym folderze znajdziesz listę notatek należących do konta odpowiadającego folderowi. Zwykle znajdziesz wszystkie notatki przechowywane w danym koncie.BraillePen24 używa brajla komputerowego w menu, więc podczas przeglądania swoich notatek nazwy będą wyświetlane w brajlu komputerowym. Tekst samej notatki może być wyświetlany w Braillu komputerowym lub literackim, zależnie od ustawienia w menu (patrz niżej – Menu Ustawienia).
+Przy pierwszym wejściu do listy notatek na wyświetlaczu brajlowskim zobaczysz napis „pusty”. Aby zsynchronizować notatki i zobaczyć ich listę wciśnij Spacja + s. Wtedy lista się wypełni notatkami z serwera.
+Aby stworzyć nową notatkę, użyj polecenia Spacja-n.
+Przeglądaj notatki za pomocą zwykłych metod przewijania (joystick w lewo/prawo lub klawisze kciukowe Poprzedni/Następny) i wejdź w notatkę za pomocą joysticka w dół lub klawisza Enter (punkt 8).
+Usunięcie notatki - będąc na liście notatek, naciśnij Spacja + punkty 145 (Spacja-d).
+Wyjście z notatki bez zapisywania - Spacja + punkty 14 (Spacja-c).
+Aby wyjść z notatki i ją zapisać - Spacja + punkty 15 (Spacja-e).
+Sposób edytowania notatek opisany jest dokładniej w sekcji Edycja poniżej.
+Notatki zmienione lub stworzone w urządzeniu zostaną przy kolejnej synchronizacji uaktualnione na serwerze, a potem zobaczysz je również w aplikacji na komputerze lub na urządzeniach mobilnych. W ten sposób wszystkie dane z urządzenia mogą być zsynchronizowane z Twoim komputerem i smartfonem.

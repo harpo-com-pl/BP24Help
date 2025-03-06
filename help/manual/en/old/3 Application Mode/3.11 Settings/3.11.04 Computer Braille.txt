@@ -1,0 +1,3 @@
+== Computer Braille ==
+Allows users to choose one of the available 8-dot computer braille tables. An 8-dot sign marks the selected item.
+Computer Braille is useful for computer editing because one computer Braille character corresponds to one character in print. Computer Braille can be used in texts (notes, emails, books) as an alternative to literary Braille. However, in menus and system messages, BraillePen24 always uses Computer Braille; it cannot be switched to literary Braille in this case.

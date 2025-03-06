@@ -1,0 +1,13 @@
+== Update firmware ==
+The firmware upgrade can only be performed with a new firmware version in a file received from the authorized service. Please use the firmware upgrade with caution: any interruption during the upgrade may render the device unusable until sent for service to an authorized workshop.
+To update BraillePen24 with an update file:
+1. Make sure that the SD card is properly formatted and contains the correct firmware file before starting the update process.
+2. Go to "Settings" menu.
+3. Navigate to "Service".
+4. Then to "Firmware Update".
+5. You will see a list of BraillePen24 firmware files present in the root folder of the SD card in the SD card socket of your device. An example firmware file name is: "firm_1_3_32.bin"
+6. Choose the file you wish to use for the update.
+7. You should see "updating in process". It will take about a minute to complete.
+8. In case of an error you will see “update error” and the error number. Please note the number to report to the service department.
+9. When the update is successfully finished you will hear a beep. The device will be switched off.
+10. Start the BraillePen24 up again to use the updated device.

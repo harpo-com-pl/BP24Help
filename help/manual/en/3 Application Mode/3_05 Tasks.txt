@@ -1,0 +1,32 @@
+== Tasks ==
+This menu item allows you to Enter the tasks' descriptions and dates. Similarly to notes or emails, you must first sync your accounts with a server by pressing Space-dot234 (Space-s). Once the sync is done, you will get tasks from all your active accounts organized in lists, in alphabetical order.
+The tasks are displayed in an alphabetical order and grouped by the account they belong to (th accounts are set in the BraillePenSync app on your phone).
+Task list navigating:
+The Previous list - Joystick Left, Left thumb key (Previous)
+The Next list - Joystick right, Right thumb key (Next)
+Synchronize list of lists - Space key + dot234 (Space-s)
+Delete list - Space key + dot145 (Space-d)
+New task list - Space key + dot1345 (Space-n)
+Task navigating inside any list can be done in a similar mode:
+The Previous task - Joystick Left, Left thumb key (Previous)
+The Next task - Joystick right, Right thumb key (Next)
+The first task - Space key + dot123 (Space key + l)
+The last task - Space key + dot456
+Synchronize tasks on the list - Space key + dot234 (Space-s)
+Delete task - Space key + dot145 (Space-d)
+New task - Space key + dot1345 (Space-n)
+Show more task details (start, updated time, completed time and name of the task) - Space key + dot23 (Back-tab) and Space key + dot56 (Tab)
+Task description - dot8 (Enter)
+Editing the task where the cursor is located - Space + Enter + period (Space-Enter-dot)
+While in the task editing form you will see description of the task and dates. The dates and times are differentiated by their labels:
+due time – “d” letter
+updated time – “u” letter
+completed time – “c” letter
+New task/edit task command shortcuts:
+The Previous field - Space key + dot23 (Space-Tab), Left thumb key (Previous)
+The Next field - Space key + dot56 (Space-Tab), Right thumb key (Next)
+The fields you will be able to edit: Name, Completed state, Due date, Description, Save button, Exit button
+Changing a toggle on the form requires a Space
+Choosing a button requires pressing Enter key
+Save - Space+234 (Space-s)
+Exit - Space key + dot14 (Space-c)

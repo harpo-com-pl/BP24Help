@@ -1,0 +1,2 @@
+== Podręcznik użytkownika ==
+Zawiera wszystkie rozdziały instrukcji użytkowania BraillePen24.

@@ -1,0 +1,6 @@
+== Reading books ==
+Books may be stored as files in .txt format on the microSD card placed in the slot at the rear edge of BraillePen24. Files can be read from the BraillePen24 SD card put in the slot at the rear of the device.
+The BraillePen24 uses computer braille for menus, so viewing your file names will be shown in computer braille.
+The BraillePen24 will remember the point where you stopped reading and return to that same point when you re-open the file again.
+All navigation commands and shortcuts are the same as with the notes editor (see the Previous section). You cannot create a new file or edit files in the files folder.
+For more information, please refer to the “Files on the SD card of BraillePen24” section below.

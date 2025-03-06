@@ -1,0 +1,2 @@
+== O urządzeniu ==
+Wyświetla wersję oprogramowania układowego BraillePen24, informacje, czy urządzenie aktualnie połączone jest z aplikacją oraz numer seryjny.

@@ -1,0 +1,4 @@
+== Kompatybilność: ==
+Komputery z systemem Windows (32 i 64 bity)
+JAWS i inne czytniki ekranu (screen readery)
+Produkty Apple z iOS 10 lub macOS 10.12 i nowszymi oraz VoiceOver (MAC, iPhone, iPad)

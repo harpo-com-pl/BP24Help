@@ -1,0 +1,2 @@
+Wprowadzenie do Serwis
+Podmenu tego elementu składa się z opcji rozwiązywania problemów przydatnych w przypadku problemów technicznych z BraillePen24:

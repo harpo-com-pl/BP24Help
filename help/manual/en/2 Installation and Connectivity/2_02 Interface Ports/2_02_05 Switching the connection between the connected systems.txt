@@ -1,0 +1,3 @@
+== Switching the connection between the connected systems ==
+Since you can connect to many devices at any time you will need a way to switch between them. To do that press short the on/off switch. It will switch the device to the next active device.
+Switching can be done in the Devices menu in the Application mode as well.

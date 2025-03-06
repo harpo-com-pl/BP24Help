@@ -1,0 +1,2 @@
+== Odśwież wyświetlacz (Wyczyść wyświetlacz) ==
+Urządzenie włącza i wyłącza po kolei wszystkie punkty wyświetlacza brajlowskiego w celu oczyszczenia go z wszelkich zabrudzeń.

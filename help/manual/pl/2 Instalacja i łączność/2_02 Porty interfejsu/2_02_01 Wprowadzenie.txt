@@ -1,0 +1,2 @@
+Wprowadzenie do Porty interfejsu
+BraillePen24 możesz podłączyć do swojego komputera lub urządzeń mobilnych za pomocą Bluetooth. Port USB-C służy do ładowania.

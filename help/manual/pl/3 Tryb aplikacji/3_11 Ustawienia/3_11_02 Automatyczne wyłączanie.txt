@@ -1,0 +1,2 @@
+== Automatyczne wyłączanie ==
+Pozwala użytkownikom ustawić czas bezczynności, po którym nastąpi automatyczne wyłączenie urządzenia, w zakresie od 3 minut, 5, 10, 15, 20, 30, 45, 60 minut lub brak wyłączania.

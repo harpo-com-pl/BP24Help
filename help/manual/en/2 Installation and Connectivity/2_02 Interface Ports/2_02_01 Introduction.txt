@@ -1,0 +1,9 @@
+Introduction for Interface Ports
+You can connect your BraillePen24 to your PC or mobile devices via Bluetooth.
+The USB-C serves for recharging.
+Bluetooth Interface
+Wireless technology, along with the BraillePen24’s long battery life, provides total freedom
+and independence from wires within the range of a Bluetooth connection (range is approximately 30 feet). Bluetooth is now a standard interface for mobile phones, tablets, and Notebook PCs.
+When two Bluetooth devices are interconnected for the first time, they have to be “paired”. This is for security reasons. Later, the devices will recognize each other automatically if the user allows it.
+In the Bluetooth environment of a PC, you will find BraillePen24 as:
+BraillePen24-XX: XX: XX: XX: XX: XX (where XX:XX:XX:XX:XX:XX is the unique Bluetooth address of your unit.)

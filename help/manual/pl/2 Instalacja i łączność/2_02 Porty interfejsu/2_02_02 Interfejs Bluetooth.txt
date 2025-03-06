@@ -1,0 +1,5 @@
+== Interfejs Bluetooth ==
+Technologia bezprzewodowa, wraz z długą żywotnością akumulatora BraillePen24, zapewnia całkowitą swobodę i niezależność od kabli w zasięgu połączenia Bluetooth (zasięg wynosi około 10 metrów). Bluetooth jest obecnie standardowym interfejsem dla telefonów komórkowych, tabletów i laptopów.
+Gdy dwa urządzenia Bluetooth są łączone po raz pierwszy, muszą zostać „sparowane”. Jest to wymóg bezpieczeństwa. Później urządzenia będą się automatycznie rozpoznawać, jeśli użytkownik tak je skonfiguruje .
+W środowisku Bluetooth na komputerze znajdziesz BraillePen24 jako:
+BraillePen24-XX:XX:XX:XX:XX:XX (gdzie XX:XX:XX:XX:XX:XX to unikalny adres Bluetooth Twojego urządzenia).

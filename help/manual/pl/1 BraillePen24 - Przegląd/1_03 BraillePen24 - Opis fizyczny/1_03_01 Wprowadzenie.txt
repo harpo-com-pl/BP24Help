@@ -1,0 +1,2 @@
+Wprowadzenie do BraillePen24 - Opis fizyczny
+Na górnej powierzchni znajduje się 24-znakowy wyświetlacz brajlowski, 8-punktowa klawiatura brajlowska typu Perkins oraz szereg dodatkowych klawiszy do nawigacji.
