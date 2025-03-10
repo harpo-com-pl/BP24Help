@@ -1,0 +1,9 @@
+== 10 Help ==
+{Help functions}
+{Firmware version etc.}
+{Version display}
+{Show connection}
+{Show Serial}
+{Key test run}
+{Context-sensitive user manual}
+{Contact info}

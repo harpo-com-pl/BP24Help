@@ -1,0 +1,20 @@
+== 9. Ustawienia ==
+{Ustawienia systemowe}
+{Czas automatycznego wyłączania}
+{Działanie przełącznika wyciszenia: wyłącz dźwięk, wibracja, wibracja i dźwięk}
+{Lista tabel Braille'a komputerowego} [wybierz]
+{Lista tabel Braille'a literackiego}
+{Domyślny Braille: komputerowy lub literacki}
+{Lista języków}
+{Ustawienia czasu}
+{Okno ustawień czasu}
+{Automatyczne włączanie/wyłączanie}
+{24/12 h}
+{r, m, d itp.}
+{Ustawienia serwisowe}
+{Procedura odświeżania}
+{Procedura testowania klawiszy}
+{Procedura aktualizacji oprogramowania}
+{Tryb jednej ręki: włącz/wyłącz}
+{Przywrócenie wszystkich ustawień do stanu początkowego}
+{Przywrócenie ustawień fabrycznych + usunięcie danych}

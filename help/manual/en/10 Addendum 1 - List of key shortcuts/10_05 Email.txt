@@ -1,0 +1,24 @@
+== Email ==
+Synchronize - Space key + dot234 (Space-s)
+Download more - Space key + dot1348
+Reply the sender - Space key + dot1235 (Space-r)
+Forward - Space key + dot124 (Space-f)
+Reply all - Space key + dot12358
+Delete message - Space key + dot125 (Space-d)
+Delete permanently - Space key + dot1258
+Move a message to another folder – Space key + dot1347 (Space-M)
+Open a message – dot8 (Enter)
+New e-mail message:
+The Previous field - Space key + dot23, Left thumb key (thumb-up)
+The Next field - Space key + dot56, Right thumb key (thumb-down)
+Theme field - Space key + dot2348 (Space-Enter-s)
+Copy to: field - Space key + dot148 (Space-Enter-c)
+Receiver field - Space key + dot12358
+Blind copy to: - Space key + dot1258
+To the message contents - Space key + dot158
+Contact list - Space key + dot124
+Message reading:
+Open a message - dot8, any routing key
+Navigating text - Thumb keys
+Attachment menu – Space key + dot1 (Space-a)
+Exit the message – Space key + dot14 (Space-c)

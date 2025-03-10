@@ -1,0 +1,20 @@
+== 9.Settings ==
+{System settings}
+{Auto off time}
+{The silence switch action: sound off, vibration, vibration and sound}
+{list of computer Braille tables} [select]
+{list of literary Braille tables}
+{default Braille: computer or literary}
+{List of languages}
+{Time settings}
+{Time set dialog}
+{auto-on/off}
+{24/12 h}
+{y,m,d etc.}
+{Service settings}
+{refresh procedure}
+{key test procedure}
+{firmware update procedure}
+{One Hand Mode on/off}
+{All settings to origininal state}
+{All settings to factory + data wipe off}

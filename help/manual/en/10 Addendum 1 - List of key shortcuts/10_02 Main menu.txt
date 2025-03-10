@@ -1,0 +1,18 @@
+== Main menu ==
+To the Main menu - Space key + dot125 (Space-h)
+To the Previous (upper) level - Space key + dot1, Joystick up
+To the Next level (lower, deeper) - Space key + dot4, Joystick down
+Activate a menu item - Space key + dot8), (routing key above the menu item)
+The first menu item - Space key + dot123 (Space-l)
+The last menu item - Space key + dot456
+The Previous menu item - Space key + dot2, Joystick Left
+The Next item - Space key + dot5, Joystick Right
+Synchronize - Space key + dot234 (Space-s)
+The Next field - Space key + dot23
+The Previous field - Space key + dot56
+Delete an item - Space key + dot145 (Space-d)
+Edit an item - dot8
+New item - Space key + dot1345 (Space-n)
+Context menu - Space key + dot134 (Space-m)
+Exit editing - Space key + dot15 (Space-e)
+Accept Edited form - dot8

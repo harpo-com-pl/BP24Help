@@ -1,0 +1,2 @@
+== 7. Urządzenia ==
+{Lista urządzeń podłączonych w trybie terminala (HID, szeregowy)} [wybierz]

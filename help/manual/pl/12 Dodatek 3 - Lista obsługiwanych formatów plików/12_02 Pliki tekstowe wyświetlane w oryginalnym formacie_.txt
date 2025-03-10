@@ -1,0 +1,8 @@
+== Pliki tekstowe wyświetlane w oryginalnym formacie: ==
+text/plain (txt, cpp, swift, cs, java, m, h, c, hpp, c++, cfg, conf, cnf, log, asc, tex, svg)
+text/css (css)
+text/javascript (js)
+text/csv (csv)
+text/sgml (sgml)
+text/xml (xml)
+application/json (json)

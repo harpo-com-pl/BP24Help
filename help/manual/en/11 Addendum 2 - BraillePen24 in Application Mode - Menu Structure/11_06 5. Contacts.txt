@@ -1,0 +1,3 @@
+== 5. Contacts ==
+{List of contacts} [search, clear, open, new, edit, delete, call]
+{contact details}

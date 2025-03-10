@@ -1,0 +1,2 @@
+== 7. Devices ==
+{List of devices connected in terminal mode (hid, serial)} [select]

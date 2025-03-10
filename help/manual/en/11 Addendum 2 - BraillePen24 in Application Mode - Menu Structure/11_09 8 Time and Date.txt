@@ -1,0 +1,5 @@
+== 8 Time and Date ==
+{Time and Date}
+{Display time}
+{Start, Stop, Laps}
+{Set time, Start, Stop}

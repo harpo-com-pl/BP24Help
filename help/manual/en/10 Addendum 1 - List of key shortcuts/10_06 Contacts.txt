@@ -1,0 +1,18 @@
+== Contacts ==
+Navigating contact list:
+New search - Space key + dot124 (Space-f)
+Phone call - Space key + dot1234 (Space-p)
+New contact - Space key + dot1345 (Space-n)
+New contact form:
+The Previous field - Space key + dot23, Left thumb key (thumb-up)
+The Next field - Space key + dot56, Right thumb key (thumb-down)
+First name - Space key + dot13458 (Space-Enter-n)
+Name - Space key + dot2348 (Space-Enter-s)
+E-mail address - Space key + dot158 (Space-Enter-e)
+Phone number - Space key + dot12348 (Space-Enter-p)
+Send - Space key + dot234 (Space-s)
+Call the phone number: Space key + dpt148 (Space-Enter-c)
+Creating contact:
+Add a phone number: Space key + dot12348 (Space-Enter-p)
+Add e-mail address: Space key + dot158 (Space-Enter-e)
+Add organization name: Space key + dot12348 (Space-Enter-o)

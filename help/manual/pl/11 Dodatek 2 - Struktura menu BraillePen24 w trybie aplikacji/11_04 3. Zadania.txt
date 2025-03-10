@@ -1,0 +1,2 @@
+== 3. Zadania ==
+{Lista list zadań} [synchronizacja, otwórz, nowa, usuń]{Lista zadań} [synchronizacja, otwórz, nowa, edytuj, usuń]{Treść zadania}

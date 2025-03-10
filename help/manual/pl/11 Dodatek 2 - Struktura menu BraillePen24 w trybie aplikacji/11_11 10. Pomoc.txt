@@ -1,0 +1,9 @@
+== 10. Pomoc ==
+{Funkcje pomocy}
+{Wersja oprogramowania itp.}
+{Wyświetlanie wersji}
+{Wyświetl połączenie}
+{Wyświetl numer seryjny}
+{Uruchom test klawiszy}
+{Podręcznik użytkownika z kontekstem}
+{Informacje kontaktowe}

@@ -1,0 +1,2 @@
+Introduction for Addendum 3 - List of supported file formats that will convert to text readable in Braille when found in a message attachment
+Addendum 3 - List of supported file formats that will convert to text readable in Braille when found in a message attachment

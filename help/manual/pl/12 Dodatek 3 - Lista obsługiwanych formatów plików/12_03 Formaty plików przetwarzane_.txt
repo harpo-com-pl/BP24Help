@@ -1,0 +1,6 @@
+== Formaty plików przetwarzane: ==
+text/html (html, htm)
+text/rtf (rtf)
+xml.document (docx)
+application/vnd.oasis.opendocument.text (odt)
+application/pdf (pdf)

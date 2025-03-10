@@ -1,0 +1,19 @@
+== Calendar ==
+The first event - Space key + dot123(Space-l)
+The last event - Space key + dot456
+New event - Space key + dot1345 (Space-n)
+Delete event - Space key + dot145 (Space-d)
+Navigation keys:
+The Previous event - Joystick Left, Left thumb key (Previous)
+The Next event - Joystick right, Right thumb key (Next)
+Synchronize events on the list - Space key + dot234 (Space-s)
+Delete event - Space key + dot145 (Space-d)
+New event - Space key + dot1345 (Space-n)
+Show more event details (start and name of the task) - Space key + dot23 (Back-tab) and Space key + dot56 (Tab)
+Event description - dot8 (Enter)
+Edit event - use the Context menu item "Edit"
+Event editing shortcuts:
+The Previous field - Space key + dot23 (Space-Tab), Left thumb key (Previous)
+The Next field - Space key + dot56 (Space-Tab), Right thumb key (Next)
+Save - Space+234 (Space-s)
+Exit - Space key + dot14 (Space-c)

@@ -1,0 +1,2 @@
+Wprowadzenie do Dodatek 3 - Lista obsługiwanych formatów plików, które zostaną przekonwertowane na tekst czytelny w brajlu, gdy znajdą się w załączniku wiadomości
+Dodatek 3 - Lista obsługiwanych formatów plików, które zostaną przekonwertowane na tekst czytelny w brajlu, gdy znajdą się w załączniku wiadomości

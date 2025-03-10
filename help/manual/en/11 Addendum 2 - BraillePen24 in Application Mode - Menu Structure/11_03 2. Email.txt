@@ -1,0 +1,5 @@
+== 2. Email ==
+{List of accounts} [sync, open]
+{List of Folders} [sync, open]
+{List of Mails} [sync, open, new, delete, reply to sender, reply to all, forward]
+{Mail content} [open attachment list, exit]

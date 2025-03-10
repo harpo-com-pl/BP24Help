@@ -1,0 +1,13 @@
+== Kalendarz ==
+Pierwsze wydarzenie – spacja + punkty 123 (Spacja + l)
+Ostatnie wydarzenie – spacja + punkty 456
+Nowe wydarzenie – spacja + punkty 1345 (Spacja + n)
+Usuń wydarzenie – spacja + punkty 145 (Spacja + d)
+Poprzednie wydarzenie - joystick w lewo, lewy klawisz kciukowy (Poprzednie)
+Następne wydarzenie - joystick w prawo, prawy klawisz kciukowy (Następne)
+Synchronizacja wydarzeń na liście - klawisz spacji + punkty 234 (Space-s)
+Usunięcie wydarzenia - klawisz spacji + punkty 145 (Space-d)
+Nowe wydarzenie - klawisz spacji + punkty 1345 (Space-n)
+Pokaż więcej szczegółów wydarzenia (rozpoczęcie i nazwa zadania) - klawisz spacji + punkty 23 (Back-tab) i klawisz spacji + punkty 56 (Tab)
+Opis wydarzenia - punkty 8 (Enter)
+Edycja wydarzenia, na którym znajduje się kursor - klawisze Spacja + Enter + punkty 15 (Spacja-Enter-e)

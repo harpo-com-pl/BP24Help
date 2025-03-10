@@ -1,0 +1,5 @@
+== 8. Czas i Data ==
+{Czas i Data}
+{Wyświetlanie czasu}
+{Start, Stop, Okrążenia}
+{Ustaw czas, Start, Stop}

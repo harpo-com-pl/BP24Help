@@ -1,0 +1,3 @@
+Wprowadzenie do Dodatek 2 - Struktura menu BraillePen24 w trybie aplikacji
+Dodatek 2 - Struktura menu BraillePen24 w trybie aplikacji
+Poniżej znajduje się pełna struktura menu trybu aplikacji:

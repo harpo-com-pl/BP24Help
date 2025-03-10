@@ -1,0 +1,4 @@
+== 3. Tasks ==
+{List of task list} [sync, open, new, delete]
+{List of tasks} [sync, open, new, edit, delete]
+{Task content}

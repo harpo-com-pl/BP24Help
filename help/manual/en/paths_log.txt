@@ -1,0 +1,116 @@
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24	91	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_01 Introduction.txt	113	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_02 Unpacking the BraillePen24.txt	127	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_03 BraillePen24 - Physical Description	132	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_03 BraillePen24 - Physical Description\1_03_01 Introduction.txt	157	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_03 BraillePen24 - Physical Description\1_03_02 Top surface.txt	156	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_03 BraillePen24 - Physical Description\1_03_03 Front Edge.txt	155	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_03 BraillePen24 - Physical Description\1_03_04 Rear Edge.txt	154	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\1 Overview of the BraillePen24\1_03 BraillePen24 - Physical Description\1_03_05 Charging the Battery.txt	165	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity	92	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity\2_01 Introduction.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity\2_02 Interface Ports	113	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity\2_02 Interface Ports\2_02_01 Introduction.txt	138	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity\2_02 Interface Ports\2_02_02 Connecting to a PC or Notebook (Terminal Mode).txt	172	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity\2_02 Interface Ports\2_02_03 Pairing the BraillePen24 as a Terminal with a Mobile Phone.txt	184	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity\2_02 Interface Ports\2_02_04 Waking Up Your iOS Device Using BraillePen24.txt	170	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\2 Installation and Connectivity\2_02 Interface Ports\2_02_05 Switching the connection between the connected systems.txt	180	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode	79	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_01 Introduction.txt	101	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_02 Application Mode Menu	106	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_02 Application Mode Menu\3_02_01 Introduction.txt	131	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_02 Application Mode Menu\3_02_02 Types of menu items.txt	138	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_03 Notes.txt	94	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_04 Email.txt	94	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_05 Tasks.txt	94	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_06 Events (Calendar).txt	106	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_07 Contacts.txt	97	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_08 Books.txt	94	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_09 Devices.txt	96	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_10 Time and date	98	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_10 Time and date\3_10_01 Introduction.txt	123	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_10 Time and date\3_10_02 Clock.txt	116	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_10 Time and date\3_10_03 Stopwatch.txt	120	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_10 Time and date\3_10_04 Timer.txt	116	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings	93	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_01 Introduction.txt	118	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_02 Auto off.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_03 Vibration and Sound.txt	125	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_04 Computer Braille.txt	122	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_05 Literary Braille.txt	122	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_06 Default Braille.txt	121	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_07 Language.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_08 Time and Date	115	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_08 Time and Date\3_11_08_01 Introduction.txt	143	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_08 Time and Date\3_11_08_02 Set Time and Date.txt	148	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_08 Time and Date\3_11_08_03 Set Time Auto.txt	144	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_08 Time and Date\3_11_08_04 Hour Format.txt	142	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_08 Time and Date\3_11_08_05 Date Format.txt	142	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_09 Service	109	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_09 Service\3_11_09_01 Introduction.txt	137	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_09 Service\3_11_09_02 Refresh display (Clean display).txt	156	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_09 Service\3_11_09_03 Key Test.txt	133	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_09 Service\3_11_09_04 Update firmware.txt	140	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_10 Display sensor on_off.txt	127	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_11 One Hand Mode.txt	119	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_12 Reset to Default.txt	122	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_11 Settings\3_11_13 Reset to Factory.txt	122	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help	89	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_01 Introduction.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_02 About.txt	107	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_03 Firmware.txt	110	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_04 App Connected.txt	115	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_05 Serial Number.txt	115	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_06 Keyboard Shortcuts.txt	120	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_07 User Manual.txt	113	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\3 Application Mode\3_12 Help\3_12_08 Contact to the service.txt	124	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\4 Editing	70	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\4 Editing\4_01 Introduction.txt	92	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\4 Editing\4_02 Editing functions Shortcut keys.txt	111	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\4 Editing\4_03 Reading books.txt	93	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\4 Editing\4_04 Synchronizing BraillePen24 Data.txt	111	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\4 Editing\4_05 Files on the SD card of BraillePen24.txt	116	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\5 End User License Agreement	89	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\5 End User License Agreement\5_01 Introduction.txt	111	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\6 Technical Specifications	87	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\6 Technical Specifications\6_01 Introduction.txt	109	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\6 Technical Specifications\6_02 Navigation Components.txt	118	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\6 Technical Specifications\6_03 Long-life Battery.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\6 Technical Specifications\6_04 Connectivity.txt	109	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\6 Technical Specifications\6_05 Portability.txt	108	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\6 Technical Specifications\6_06 Compatibility.txt	110	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\7 Manufacturer Warranty	84	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\7 Manufacturer Warranty\7_01 Introduction.txt	106	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\7 Manufacturer Warranty\7_02 Manufacturer Warranty.txt	115	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\7 Manufacturer Warranty\7_03 Conditions and Limitations.txt	120	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\8 Customer Support	79	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\8 Customer Support\8_01 Introduction.txt	101	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\9 Additional Resources	83	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\9 Additional Resources\9_01 Introduction.txt	105	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts	98	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_01 Introduction.txt	121	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_02 Main menu.txt	118	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_03 Stop watch.txt	119	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_04 Notes.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_05 Email.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_06 Contacts.txt	117	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_07 Tasks.txt	114	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_08 Calendar.txt	117	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_09 Contacts.txt	117	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\10 Addendum 1 - List of key shortcuts\10_10 Editing text.txt	121	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure	126	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_01 Introduction.txt	149	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_02 1. Notes.txt	145	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_03 2. Email.txt	145	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_04 3. Tasks.txt	145	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_05 4.Event.txt	144	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_06 5. Contacts.txt	148	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_07 6. Books.txt	145	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_08 7. Devices.txt	147	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_09 8 Time and Date.txt	152	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_10 9.Settings.txt	147	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\11 Addendum 2 - BraillePen24 in Application Mode - Menu Structure\11_11 10 Help.txt	144	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\12 Addendum 3 - List of supported file formats that will convert to text readable in Braille when found in a message attachment	188	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\12 Addendum 3 - List of supported file formats that will convert to text readable in Braille when found in a message attachment\12_01 Introduction.txt	211	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\12 Addendum 3 - List of supported file formats that will convert to text readable in Braille when found in a message attachment\12_02 Plain text files displayed as found.txt	234	28.02.2025 12:00:00
+C:\Users\awiat\OneDrive\Pulpit\Harpo\BP24Help\help\manual\en\12 Addendum 3 - List of supported file formats that will convert to text readable in Braille when found in a message attachment\12_03 Parsed file formats.txt	218	28.02.2025 12:00:00

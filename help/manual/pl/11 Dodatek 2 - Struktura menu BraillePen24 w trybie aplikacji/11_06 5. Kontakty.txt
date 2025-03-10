@@ -1,0 +1,2 @@
+== 5. Kontakty ==
+{Lista kontaktów} [wyszukaj, wyczyść, otwórz, nowy, edytuj, usuń, zadzwoń]{Szczegóły kontaktu}

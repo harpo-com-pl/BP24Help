@@ -1,0 +1,6 @@
+== Kontakty ==
+Nawigacja po liście kontaktów:
+- Nowy kontakt - Spacja + punkty 1345 (Spacja-n)- Poprzednie Pole  Spacja + punkty 23, skrajny lewy klawisz kciukowy (W górę)- Następne Pole - Spacja + punkty 56, skrajny prawy klawisz kciukowy (W dół)- Wykonaj Połączenie telefoniczne - Spacja + punkty 12348 (Spacja-Enter-c) – ta funkcja przekazuje powiadomienie z numerem telefonu na ekran połączonego smartfona; możesz je wykorzystać w celu wykonania połączenia pod ten numer
+Formularz kontaktu:
+- Poprzednie Pole - Spacja + punkty 23, skrajny lewy klawisz kciukowy (W górę)- Następne Pole - Spacja + punkty 56, skrajny prawy klawisz kciukowy (W dół)- Imię - Spacja + punkty 13458 (spacja-Enter-n)- Nazwisko - Spacja + punkty 2348 (spacja-Enter-s)- Adres e-mail - Spacja + punkty 158 (spacja-Enter-e) to jest podwójne pole składające się z opisu i adresu e-mail- Numer telefonu - Spacja + punkty 12348 (spacja-Enter-p) to jest podwójne pole składające się z opisu i numeru telefonu
+- Zapisz - Spacja + punkty 234 (Spacja-s)- Dodaj numer telefonu: Spacja + punkty 12348 (Spacja-Enter-p)- Dodaj adres e-mail: Spacja + punkty 158 (Spacja-Enter-e)- Dodaj organizację: Spacja + punkty 1358 (Spacja-Enter-o)

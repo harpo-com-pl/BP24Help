@@ -1,0 +1,2 @@
+== 1. Notatki ==
+{Lista kont} [synchronizacja]{Lista notatek} [synchronizacja, otwórz, nowa, usuń]{Edycja notatki} [zapisz, wyjdź z zapisem, wyjdź bez zapisu]

@@ -1,0 +1,2 @@
+== 4. Wydarzenia ==
+{Lista kalendarzy} [synchronizacja, otwórz]{Lista wydarzeń} [synchronizacja, otwórz, nowe, edytuj, usuń]{Treść wydarzenia}

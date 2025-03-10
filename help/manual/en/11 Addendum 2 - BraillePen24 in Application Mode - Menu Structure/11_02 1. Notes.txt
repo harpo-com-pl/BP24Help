@@ -1,0 +1,4 @@
+== 1. Notes ==
+{List of accounts} [sync]
+{List of Notes}    [sync, open, new, delete]
+{Edit note} [save, exit with save, exit without save]

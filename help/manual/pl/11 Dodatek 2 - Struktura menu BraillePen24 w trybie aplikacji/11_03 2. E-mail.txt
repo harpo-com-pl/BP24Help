@@ -1,0 +1,2 @@
+== 2. E-mail ==
+{Lista kont} [synchronizacja, otwórz]{Lista folderów} [synchronizacja, otwórz]{Lista wiadomości} [synchronizacja, otwórz, nowa, usuń, odpowiedz nadawcy, odpowiedz wszystkim, przekaz dalej]{Treść wiadomości} [otwórz listę załączników, wyjdź]
